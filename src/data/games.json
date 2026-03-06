@@ -1,0 +1,6694 @@
+[
+    {
+        "gameName": "Speed Roulette",
+        "gameCode": "EZU04078"
+    },
+    {
+        "gameName": "Casino Marina Andar Bahar",
+        "gameCode": "EZU04021"
+    },
+    {
+        "gameName": "Blackjack 36 The Club",
+        "gameCode": "PPL00041"
+    },
+    {
+        "gameName": "Blackjack 5 Azure",
+        "gameCode": "PPL00052"
+    },
+    {
+        "gameName": "Blackjack 43 Ruby",
+        "gameCode": "PPL00051"
+    },
+    {
+        "gameName": "Blackjack 44 Ruby",
+        "gameCode": "PPL00050"
+    },
+    {
+        "gameName": "Blackjack 42 Ruby",
+        "gameCode": "PPL00049"
+    },
+    {
+        "gameName": "Blackjack 45 Ruby",
+        "gameCode": "PPL00048"
+    },
+    {
+        "gameName": "Blackjack 41 Ruby",
+        "gameCode": "PPL00047"
+    },
+    {
+        "gameName": "Blackjack 40 Ruby",
+        "gameCode": "PPL00046"
+    },
+    {
+        "gameName": "Blackjack 4 Azure",
+        "gameCode": "PPL00045"
+    },
+    {
+        "gameName": "Blackjack 39 Ruby",
+        "gameCode": "PPL00044"
+    },
+    {
+        "gameName": "Baccarat 5",
+        "gameCode": "PPL00043"
+    },
+    {
+        "gameName": "Blackjack 37 Ruby",
+        "gameCode": "PPL00042"
+    },
+    {
+        "gameName": "Blackjack 48 Ruby",
+        "gameCode": "PPL00053"
+    },
+    {
+        "gameName": "Baccarat 6",
+        "gameCode": "PPL00040"
+    },
+    {
+        "gameName": "Blackjack 35 The Club",
+        "gameCode": "PPL00039"
+    },
+    {
+        "gameName": "Blackjack 33 The Club",
+        "gameCode": "PPL00038"
+    },
+    {
+        "gameName": "Blackjack 32 Azure",
+        "gameCode": "PPL00037"
+    },
+    {
+        "gameName": "Blackjack 31 Azure",
+        "gameCode": "PPL00036"
+    },
+    {
+        "gameName": "Blackjack 30 Azure",
+        "gameCode": "PPL00035"
+    },
+    {
+        "gameName": "Blackjack 3 Azure",
+        "gameCode": "PPL00034"
+    },
+    {
+        "gameName": "Blackjack 29 Azure",
+        "gameCode": "PPL00033"
+    },
+    {
+        "gameName": "Blackjack 28 Azure",
+        "gameCode": "PPL00032"
+    },
+    {
+        "gameName": "Blackjack 27 Azure",
+        "gameCode": "PPL00031"
+    },
+    {
+        "gameName": "Blackjack 26 Azure",
+        "gameCode": "PPL00030"
+    },
+    {
+        "gameName": "Blackjack 64 Ruby",
+        "gameCode": "PPL00065"
+    },
+    {
+        "gameName": "Blackjack X 11 Emerald",
+        "gameCode": "PPL00077"
+    },
+    {
+        "gameName": "Blackjack X 10 Ruby",
+        "gameCode": "PPL00076"
+    },
+    {
+        "gameName": "Blackjack X 1 Azure",
+        "gameCode": "PPL00075"
+    },
+    {
+        "gameName": "Blackjack 9 Azure",
+        "gameCode": "PPL00074"
+    },
+    {
+        "gameName": "Blackjack 8 Azure",
+        "gameCode": "PPL00073"
+    },
+    {
+        "gameName": "Blackjack 74 Ruby",
+        "gameCode": "PPL00072"
+    },
+    {
+        "gameName": "Blackjack 73 Ruby",
+        "gameCode": "PPL00071"
+    },
+    {
+        "gameName": "Blackjack 72 Ruby",
+        "gameCode": "PPL00070"
+    },
+    {
+        "gameName": "Blackjack 71 Ruby",
+        "gameCode": "PPL00069"
+    },
+    {
+        "gameName": "Blackjack 70 Ruby",
+        "gameCode": "PPL00068"
+    },
+    {
+        "gameName": "Blackjack 7 Azure",
+        "gameCode": "PPL00067"
+    },
+    {
+        "gameName": "Blackjack 65 Ruby",
+        "gameCode": "PPL00066"
+    },
+    {
+        "gameName": "Blackjack 24 Azure",
+        "gameCode": "PPL00028"
+    },
+    {
+        "gameName": "Blackjack 6 Azure",
+        "gameCode": "PPL00064"
+    },
+    {
+        "gameName": "Blackjack 56 Ruby",
+        "gameCode": "PPL00063"
+    },
+    {
+        "gameName": "Blackjack 55 Ruby",
+        "gameCode": "PPL00062"
+    },
+    {
+        "gameName": "Blackjack 54 Ruby",
+        "gameCode": "PPL00061"
+    },
+    {
+        "gameName": "Blackjack 53 Ruby",
+        "gameCode": "PPL00060"
+    },
+    {
+        "gameName": "Blackjack 52 Ruby",
+        "gameCode": "PPL00059"
+    },
+    {
+        "gameName": "Blackjack 50 Ruby",
+        "gameCode": "PPL00058"
+    },
+    {
+        "gameName": "Blackjack 51 Ruby",
+        "gameCode": "PPL00057"
+    },
+    {
+        "gameName": "Blackjack 49 Ruby",
+        "gameCode": "PPL00056"
+    },
+    {
+        "gameName": "Blackjack 47 Ruby",
+        "gameCode": "PPL00055"
+    },
+    {
+        "gameName": "Blackjack 46 Ruby",
+        "gameCode": "PPL00054"
+    },
+    {
+        "gameName": "N4 Immersive Baccarat",
+        "gameCode": "HOG00021"
+    },
+    {
+        "gameName": "Auto Mega Roulette",
+        "gameCode": "PPL00004"
+    },
+    {
+        "gameName": "Auto Roulette",
+        "gameCode": "PPL00003"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "PPL00002"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "PPL00001"
+    },
+    {
+        "gameName": "Ho Gaming Lobby",
+        "gameCode": "HOG00029"
+    },
+    {
+        "gameName": "DT2 Dragon Tiger",
+        "gameCode": "HOG00028"
+    },
+    {
+        "gameName": "S1 Roulette",
+        "gameCode": "HOG00027"
+    },
+    {
+        "gameName": "S2 Roulette",
+        "gameCode": "HOG00026"
+    },
+    {
+        "gameName": "N9 Speed Baccarat",
+        "gameCode": "HOG00025"
+    },
+    {
+        "gameName": "N7 Speed Baccarat",
+        "gameCode": "HOG00024"
+    },
+    {
+        "gameName": "N8 Speed Baccarat",
+        "gameCode": "HOG00023"
+    },
+    {
+        "gameName": "N3 Baccarat",
+        "gameCode": "HOG00022"
+    },
+    {
+        "gameName": "Baccarat 1",
+        "gameCode": "PPL00005"
+    },
+    {
+        "gameName": "N6 Speed Baccarat",
+        "gameCode": "HOG00020"
+    },
+    {
+        "gameName": "N3 Blackjack",
+        "gameCode": "HOG00019"
+    },
+    {
+        "gameName": "N2 Speed Baccarat",
+        "gameCode": "HOG00018"
+    },
+    {
+        "gameName": "N2 Blackjack",
+        "gameCode": "HOG00017"
+    },
+    {
+        "gameName": "N10 Speed Baccarat",
+        "gameCode": "HOG00016"
+    },
+    {
+        "gameName": "N12 Baccarat",
+        "gameCode": "HOG00015"
+    },
+    {
+        "gameName": "N11 Speed Baccarat",
+        "gameCode": "HOG00014"
+    },
+    {
+        "gameName": "N1 Roulette",
+        "gameCode": "HOG00013"
+    },
+    {
+        "gameName": "N1 Baccarat",
+        "gameCode": "HOG00012"
+    },
+    {
+        "gameName": "N1 Blackjack",
+        "gameCode": "HOG00011"
+    },
+    {
+        "gameName": "J2 Blackjack",
+        "gameCode": "HOG00010"
+    },
+    {
+        "gameName": "Blackjack 14 Azure",
+        "gameCode": "PPL00017"
+    },
+    {
+        "gameName": "Blackjack X 13 Emerald",
+        "gameCode": "PPL00079"
+    },
+    {
+        "gameName": "Blackjack 22 Azure",
+        "gameCode": "PPL00027"
+    },
+    {
+        "gameName": "Blackjack 23 Azure",
+        "gameCode": "PPL00026"
+    },
+    {
+        "gameName": "Blackjack 21 Azure",
+        "gameCode": "PPL00025"
+    },
+    {
+        "gameName": "Blackjack 20 Azure",
+        "gameCode": "PPL00024"
+    },
+    {
+        "gameName": "Blackjack 2 Azure",
+        "gameCode": "PPL00023"
+    },
+    {
+        "gameName": "Blackjack 19 Azure",
+        "gameCode": "PPL00022"
+    },
+    {
+        "gameName": "Blackjack 18 Azure",
+        "gameCode": "PPL00021"
+    },
+    {
+        "gameName": "Blackjack 17 Azure",
+        "gameCode": "PPL00020"
+    },
+    {
+        "gameName": "Blackjack 16 Azure",
+        "gameCode": "PPL00019"
+    },
+    {
+        "gameName": "Blackjack 15 Azure",
+        "gameCode": "PPL00018"
+    },
+    {
+        "gameName": "Blackjack 25 Azure",
+        "gameCode": "PPL00029"
+    },
+    {
+        "gameName": "Blackjack 12 Azure",
+        "gameCode": "PPL00016"
+    },
+    {
+        "gameName": "Blackjack 11 Azure",
+        "gameCode": "PPL00015"
+    },
+    {
+        "gameName": "Blackjack 10 Azure",
+        "gameCode": "PPL00014"
+    },
+    {
+        "gameName": "Blackjack 1 Azure",
+        "gameCode": "PPL00013"
+    },
+    {
+        "gameName": "Bet Behind Pro Blackjack",
+        "gameCode": "PPL00012"
+    },
+    {
+        "gameName": "Baccarat 9",
+        "gameCode": "PPL00011"
+    },
+    {
+        "gameName": "Blackjack",
+        "gameCode": "PPL00010"
+    },
+    {
+        "gameName": "Baccarat 8",
+        "gameCode": "PPL00009"
+    },
+    {
+        "gameName": "Baccarat 7",
+        "gameCode": "PPL00008"
+    },
+    {
+        "gameName": "Baccarat 3",
+        "gameCode": "PPL00007"
+    },
+    {
+        "gameName": "Baccarat 2",
+        "gameCode": "PPL00006"
+    },
+    {
+        "gameName": "Aztec Gems Deluxe",
+        "gameCode": "PPC00031"
+    },
+    {
+        "gameName": "Big Bass Day at Races",
+        "gameCode": "PPC00043"
+    },
+    {
+        "gameName": "Beware The Deep Megaways",
+        "gameCode": "PPC00042"
+    },
+    {
+        "gameName": "Big Bass Bonanza 1000",
+        "gameCode": "PPC00041"
+    },
+    {
+        "gameName": "Big Bass Bonanza",
+        "gameCode": "PPC00040"
+    },
+    {
+        "gameName": "Barnyard Megahays Megaways",
+        "gameCode": "PPC00039"
+    },
+    {
+        "gameName": "Big Bass Amazon Xtreme",
+        "gameCode": "PPC00038"
+    },
+    {
+        "gameName": "Big Bass - Keeping it Reel",
+        "gameCode": "PPC00037"
+    },
+    {
+        "gameName": "Barn Festival",
+        "gameCode": "PPC00036"
+    },
+    {
+        "gameName": "Badge Blitz",
+        "gameCode": "PPC00035"
+    },
+    {
+        "gameName": "Bali Dragon",
+        "gameCode": "PPC00034"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "PPC00033"
+    },
+    {
+        "gameName": "Aztec King",
+        "gameCode": "PPC00032"
+    },
+    {
+        "gameName": "Big Bass Halloween",
+        "gameCode": "PPC00044"
+    },
+    {
+        "gameName": "Bandit Megaways",
+        "gameCode": "PPC00030"
+    },
+    {
+        "gameName": "Aztec Treasure Hunt",
+        "gameCode": "PPC00029"
+    },
+    {
+        "gameName": "Aztec Smash",
+        "gameCode": "PPC00028"
+    },
+    {
+        "gameName": "Aztec Gems",
+        "gameCode": "PPC00027"
+    },
+    {
+        "gameName": "8 Dragons",
+        "gameCode": "PPC00026"
+    },
+    {
+        "gameName": "Aztec Gems Megaways",
+        "gameCode": "PPC00025"
+    },
+    {
+        "gameName": "Aztec Bonanza",
+        "gameCode": "PPC00024"
+    },
+    {
+        "gameName": "Anime Mecha Megaways",
+        "gameCode": "PPC00023"
+    },
+    {
+        "gameName": "6 Jokers",
+        "gameCode": "PPC03013"
+    },
+    {
+        "gameName": "Angel vs Sinner",
+        "gameCode": "PPC00022"
+    },
+    {
+        "gameName": "Ancient Egypt",
+        "gameCode": "PPC00021"
+    },
+    {
+        "gameName": "Big Bass Mission Fishin’",
+        "gameCode": "PPC00056"
+    },
+    {
+        "gameName": "Blitz Super Wheel",
+        "gameCode": "PPC00067"
+    },
+    {
+        "gameName": "Blazing Wilds Megaways",
+        "gameCode": "PPC00066"
+    },
+    {
+        "gameName": "Blade & Fangs",
+        "gameCode": "PPC00065"
+    },
+    {
+        "gameName": "Bigger Bass Bonanza",
+        "gameCode": "PPC00064"
+    },
+    {
+        "gameName": "Big Bass Secrets of the Golden Lake",
+        "gameCode": "PPC00063"
+    },
+    {
+        "gameName": "Big Bass Bonanza Megaways",
+        "gameCode": "PPC00062"
+    },
+    {
+        "gameName": "Big Bass Xmas Xtreme",
+        "gameCode": "PPC00061"
+    },
+    {
+        "gameName": "Big Burger: Load it Up with Extra Cheese",
+        "gameCode": "PPC00060"
+    },
+    {
+        "gameName": "Black Bull",
+        "gameCode": "PPC00059"
+    },
+    {
+        "gameName": "Bigger Bass Splash",
+        "gameCode": "PPC00058"
+    },
+    {
+        "gameName": "Big Bass Vegas Double Down Deluxe",
+        "gameCode": "PPC00057"
+    },
+    {
+        "gameName": "Aladdin and the Sorcerer",
+        "gameCode": "PPC00020"
+    },
+    {
+        "gameName": "Big Juan",
+        "gameCode": "PPC00055"
+    },
+    {
+        "gameName": "Bigger Bass Blizzard - Christmas Catch",
+        "gameCode": "PPC00054"
+    },
+    {
+        "gameName": "Big Bass Return to the Races",
+        "gameCode": "PPC00053"
+    },
+    {
+        "gameName": "Big Bass Splash",
+        "gameCode": "PPC00052"
+    },
+    {
+        "gameName": "Big Bass Christmas Bash",
+        "gameCode": "PPC00051"
+    },
+    {
+        "gameName": "Big Bass Hold & Spinner",
+        "gameCode": "PPC00050"
+    },
+    {
+        "gameName": "Big Bass Hold & Spinner Megaways",
+        "gameCode": "PPC00049"
+    },
+    {
+        "gameName": "Big Bass Halloween 2",
+        "gameCode": "PPC00048"
+    },
+    {
+        "gameName": "Big Bass Bonanza – Reel Action",
+        "gameCode": "PPC00047"
+    },
+    {
+        "gameName": "Big Bass Crash",
+        "gameCode": "PPC00046"
+    },
+    {
+        "gameName": "Big Bass Floats My Boat",
+        "gameCode": "PPC00045"
+    },
+    {
+        "gameName": "Blackjack X 25 Azure",
+        "gameCode": "PPL00090"
+    },
+    {
+        "gameName": "3 Genie Wishes",
+        "gameCode": "PPC03008"
+    },
+    {
+        "gameName": "3 Buzzing Wilds",
+        "gameCode": "PPC03006"
+    },
+    {
+        "gameName": "Blackjack X 20 Ruby",
+        "gameCode": "PPL00100"
+    },
+    {
+        "gameName": "Blackjack X 4 Ruby",
+        "gameCode": "PPL00099"
+    },
+    {
+        "gameName": "Boom City",
+        "gameCode": "PPL00098"
+    },
+    {
+        "gameName": "Blackjack X 9 Ruby",
+        "gameCode": "PPL00097"
+    },
+    {
+        "gameName": "Blackjack X 8 Ruby",
+        "gameCode": "PPL00096"
+    },
+    {
+        "gameName": "Blackjack X 7 Azure",
+        "gameCode": "PPL00095"
+    },
+    {
+        "gameName": "Blackjack X 6 Azure",
+        "gameCode": "PPL00094"
+    },
+    {
+        "gameName": "Blackjack X 5 Ruby",
+        "gameCode": "PPL00093"
+    },
+    {
+        "gameName": "Blackjack 38 Ruby",
+        "gameCode": "PPL00092"
+    },
+    {
+        "gameName": "Blackjack X 3 Azure",
+        "gameCode": "PPL00091"
+    },
+    {
+        "gameName": "5 Lions",
+        "gameCode": "PPC00001"
+    },
+    {
+        "gameName": "Blackjack X 24 Azure",
+        "gameCode": "PPL00089"
+    },
+    {
+        "gameName": "Blackjack X 21 Ruby",
+        "gameCode": "PPL00088"
+    },
+    {
+        "gameName": "Blackjack 34 The Club",
+        "gameCode": "PPL00087"
+    },
+    {
+        "gameName": "Blackjack X 2 Azure",
+        "gameCode": "PPL00086"
+    },
+    {
+        "gameName": "Blackjack X 19 Ruby",
+        "gameCode": "PPL00085"
+    },
+    {
+        "gameName": "Blackjack X 18 Azure",
+        "gameCode": "PPL00084"
+    },
+    {
+        "gameName": "Blackjack X 17 Azure",
+        "gameCode": "PPL00083"
+    },
+    {
+        "gameName": "Blackjack X 16 Azure",
+        "gameCode": "PPL00082"
+    },
+    {
+        "gameName": "Blackjack X 15 Ruby",
+        "gameCode": "PPL00081"
+    },
+    {
+        "gameName": "Blackjack X 14 Ruby",
+        "gameCode": "PPL00080"
+    },
+    {
+        "gameName": "C9 Baccarat",
+        "gameCode": "HOG00008"
+    },
+    {
+        "gameName": "5 Frozen Charms Megaways",
+        "gameCode": "PPC03010"
+    },
+    {
+        "gameName": "Asgard",
+        "gameCode": "PPC00019"
+    },
+    {
+        "gameName": "Ancient Island Megaways",
+        "gameCode": "PPC00018"
+    },
+    {
+        "gameName": "Ancient Egypt Classic",
+        "gameCode": "PPC00017"
+    },
+    {
+        "gameName": "American Blackjack",
+        "gameCode": "PPC00016"
+    },
+    {
+        "gameName": "Aztec Blaze",
+        "gameCode": "PPC00015"
+    },
+    {
+        "gameName": "8 Golden Dragon Challenge",
+        "gameCode": "PPC00014"
+    },
+    {
+        "gameName": "African Elephant",
+        "gameCode": "PPC00013"
+    },
+    {
+        "gameName": "7 Piggies 125000",
+        "gameCode": "PPC00012"
+    },
+    {
+        "gameName": "7 Piggies",
+        "gameCode": "PPC00011"
+    },
+    {
+        "gameName": "888 Bonanza",
+        "gameCode": "PPC00010"
+    },
+    {
+        "gameName": "888 Gold",
+        "gameCode": "PPC00009"
+    },
+    {
+        "gameName": "Blackjack X 12 Emerald",
+        "gameCode": "PPL00078"
+    },
+    {
+        "gameName": "888 Dragons",
+        "gameCode": "PPC00008"
+    },
+    {
+        "gameName": "7 Monkeys",
+        "gameCode": "PPC03012"
+    },
+    {
+        "gameName": "7 Clovers of Fortune",
+        "gameCode": "PPC00007"
+    },
+    {
+        "gameName": "5 Lions Reborn",
+        "gameCode": "PPC00006"
+    },
+    {
+        "gameName": "5 Lions Megaways 2",
+        "gameCode": "PPC00005"
+    },
+    {
+        "gameName": "5 Rabbits Megaways",
+        "gameCode": "PPC00004"
+    },
+    {
+        "gameName": "3 Dancing Monkeys",
+        "gameCode": "PPC03007"
+    },
+    {
+        "gameName": "3 Kingdoms - Battle of Red Cliffs",
+        "gameCode": "PPC03009"
+    },
+    {
+        "gameName": "5 Lions Megaways",
+        "gameCode": "PPC00003"
+    },
+    {
+        "gameName": "5 Lions Dance",
+        "gameCode": "PPC03011"
+    },
+    {
+        "gameName": "5 Lions Gold",
+        "gameCode": "PPC00002"
+    },
+    {
+        "gameName": "Blackjack Sapphire",
+        "gameCode": "L8800059"
+    },
+    {
+        "gameName": "African Sunset 2",
+        "gameCode": "GA000011"
+    },
+    {
+        "gameName": "88 Riches",
+        "gameCode": "GA000010"
+    },
+    {
+        "gameName": "Aladdin's Quest",
+        "gameCode": "GA000009"
+    },
+    {
+        "gameName": "20 Super Sevens",
+        "gameCode": "GA000008"
+    },
+    {
+        "gameName": "20 Hot Super Fruits",
+        "gameCode": "GA000007"
+    },
+    {
+        "gameName": "7s Fury 20",
+        "gameCode": "GA000006"
+    },
+    {
+        "gameName": "40 Super Heated Sevens",
+        "gameCode": "GA000005"
+    },
+    {
+        "gameName": "7s Fury 40",
+        "gameCode": "GA000004"
+    },
+    {
+        "gameName": "40 Super Blazing Sevens",
+        "gameCode": "GA000003"
+    },
+    {
+        "gameName": "40 Lucky Sevens",
+        "gameCode": "GA000002"
+    },
+    {
+        "gameName": "20 Hot Fruit Delights",
+        "gameCode": "GA000001"
+    },
+    {
+        "gameName": "Blackjack Spanish 1",
+        "gameCode": "L8800060"
+    },
+    {
+        "gameName": "Ali Baba's Riches",
+        "gameCode": "GA000012"
+    },
+    {
+        "gameName": "Tokyo Baccarat",
+        "gameCode": "L8800058"
+    },
+    {
+        "gameName": "Speed Baccarat 2",
+        "gameCode": "L8800057"
+    },
+    {
+        "gameName": "Teen Patti 1Day",
+        "gameCode": "L8800056"
+    },
+    {
+        "gameName": "Speed Baccarat 1",
+        "gameCode": "L8800055"
+    },
+    {
+        "gameName": "Speed Dragon Tiger",
+        "gameCode": "L8800054"
+    },
+    {
+        "gameName": "Royal Riches Spanish Roulette",
+        "gameCode": "L8800053"
+    },
+    {
+        "gameName": "Roulette Spanish 1",
+        "gameCode": "L8800052"
+    },
+    {
+        "gameName": "Royal Riches Roulette",
+        "gameCode": "L8800051"
+    },
+    {
+        "gameName": "Roulette Spanish 2",
+        "gameCode": "L8800050"
+    },
+    {
+        "gameName": "Roulette 1",
+        "gameCode": "L8800049"
+    },
+    {
+        "gameName": "Roulette 2",
+        "gameCode": "L8800048"
+    },
+    {
+        "gameName": "Blackjack",
+        "gameCode": "GA000024"
+    },
+    {
+        "gameName": "Caribbean Stud Poker",
+        "gameCode": "GA000035"
+    },
+    {
+        "gameName": "Candy Trouble",
+        "gameCode": "GA000034"
+    },
+    {
+        "gameName": "Caligula",
+        "gameCode": "GA000033"
+    },
+    {
+        "gameName": "Candy Treats",
+        "gameCode": "GA000032"
+    },
+    {
+        "gameName": "Buffalo Sunset",
+        "gameCode": "GA000031"
+    },
+    {
+        "gameName": "Burning Flame",
+        "gameCode": "GA000030"
+    },
+    {
+        "gameName": "Broken Ballerina",
+        "gameCode": "GA000029"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "GA000028"
+    },
+    {
+        "gameName": "Book of Cupigs",
+        "gameCode": "GA000027"
+    },
+    {
+        "gameName": "Book of Oziris",
+        "gameCode": "GA000026"
+    },
+    {
+        "gameName": "Azrabah Wishes",
+        "gameCode": "GA000025"
+    },
+    {
+        "gameName": "Português Roulette 1",
+        "gameCode": "L8800047"
+    },
+    {
+        "gameName": "Book of Museum",
+        "gameCode": "GA000023"
+    },
+    {
+        "gameName": "Blackjack Gold",
+        "gameCode": "GA000022"
+    },
+    {
+        "gameName": "Battle for Atlantis",
+        "gameCode": "GA000021"
+    },
+    {
+        "gameName": "Big Fruit Show",
+        "gameCode": "GA000020"
+    },
+    {
+        "gameName": "Blackjack Side Bets",
+        "gameCode": "GA000019"
+    },
+    {
+        "gameName": "Atlantis World",
+        "gameCode": "GA000018"
+    },
+    {
+        "gameName": "Awesome 7's",
+        "gameCode": "GA000017"
+    },
+    {
+        "gameName": "10 Lucky Sevens",
+        "gameCode": "GA000016"
+    },
+    {
+        "gameName": "5 Lucky Sevens",
+        "gameCode": "GA000015"
+    },
+    {
+        "gameName": "100 Lucky Sevens",
+        "gameCode": "GA000014"
+    },
+    {
+        "gameName": "Angry Dogs",
+        "gameCode": "GA000013"
+    },
+    {
+        "gameName": "Blackjack A",
+        "gameCode": "L8800010"
+    },
+    {
+        "gameName": "Blackjack Português 1",
+        "gameCode": "L8800022"
+    },
+    {
+        "gameName": "Blackjack Amethyst",
+        "gameCode": "L8800021"
+    },
+    {
+        "gameName": "Blackjack 1",
+        "gameCode": "L8800020"
+    },
+    {
+        "gameName": "Blackjack 4",
+        "gameCode": "L8800019"
+    },
+    {
+        "gameName": "Blackjack B",
+        "gameCode": "L8800018"
+    },
+    {
+        "gameName": "Blackjack D",
+        "gameCode": "L8800017"
+    },
+    {
+        "gameName": "Baruto Baccarat",
+        "gameCode": "L8800016"
+    },
+    {
+        "gameName": "Blackjack 3",
+        "gameCode": "L8800015"
+    },
+    {
+        "gameName": "Blackjack 2",
+        "gameCode": "L8800014"
+    },
+    {
+        "gameName": "Blackjack C",
+        "gameCode": "L8800013"
+    },
+    {
+        "gameName": "Baccarat Speed A",
+        "gameCode": "L8800012"
+    },
+    {
+        "gameName": "Baccarat Lounge",
+        "gameCode": "L8800011"
+    },
+    {
+        "gameName": "Blackjack F",
+        "gameCode": "L8800023"
+    },
+    {
+        "gameName": "Baccarat High Roller 2",
+        "gameCode": "L8800009"
+    },
+    {
+        "gameName": "Baccarat 3",
+        "gameCode": "L8800008"
+    },
+    {
+        "gameName": "Baccarat 5",
+        "gameCode": "L8800007"
+    },
+    {
+        "gameName": "Baccarat Spanish 1",
+        "gameCode": "L8800006"
+    },
+    {
+        "gameName": "Baccarat High Roller 1",
+        "gameCode": "L8800005"
+    },
+    {
+        "gameName": "Baccarat 1",
+        "gameCode": "L8800004"
+    },
+    {
+        "gameName": "Auto Roulette 1",
+        "gameCode": "L8800003"
+    },
+    {
+        "gameName": "Andar Bahar 1",
+        "gameCode": "L8800002"
+    },
+    {
+        "gameName": "Auto Roulette",
+        "gameCode": "L8800001"
+    },
+    {
+        "gameName": "Boxing Extravaganza",
+        "gameCode": "JIL00088"
+    },
+    {
+        "gameName": "Boxing King",
+        "gameCode": "JIL03015"
+    },
+    {
+        "gameName": "Blackjack Spanish 9",
+        "gameCode": "L8800035"
+    },
+    {
+        "gameName": "Live 88: Lobby",
+        "gameCode": "L8800046"
+    },
+    {
+        "gameName": "Live 88: Blackjack Lobby",
+        "gameCode": "L8800045"
+    },
+    {
+        "gameName": "Live 88: Roulette Lobby",
+        "gameCode": "L8800044"
+    },
+    {
+        "gameName": "Hyper Speed Baccarat",
+        "gameCode": "L8800043"
+    },
+    {
+        "gameName": "Live 88: Baccarat Lobby",
+        "gameCode": "L8800042"
+    },
+    {
+        "gameName": "Blackjack VIP 3",
+        "gameCode": "L8800041"
+    },
+    {
+        "gameName": "Dragon Tiger 1",
+        "gameCode": "L8800040"
+    },
+    {
+        "gameName": "Bollywood Stars 1",
+        "gameCode": "L8800039"
+    },
+    {
+        "gameName": "Blackjack VIP 2",
+        "gameCode": "L8800038"
+    },
+    {
+        "gameName": "Blackjack VIP 1",
+        "gameCode": "L8800037"
+    },
+    {
+        "gameName": "Blackjack Turquoise",
+        "gameCode": "L8800036"
+    },
+    {
+        "gameName": "Castle Blood",
+        "gameCode": "GA000036"
+    },
+    {
+        "gameName": "Blackjack Spanish 8",
+        "gameCode": "L8800034"
+    },
+    {
+        "gameName": "Blackjack Spanish 7",
+        "gameCode": "L8800033"
+    },
+    {
+        "gameName": "Blackjack Spanish 5",
+        "gameCode": "L8800032"
+    },
+    {
+        "gameName": "Blackjack Spanish 6",
+        "gameCode": "L8800031"
+    },
+    {
+        "gameName": "Blackjack Spanish 4",
+        "gameCode": "L8800030"
+    },
+    {
+        "gameName": "Blackjack Spanish 3",
+        "gameCode": "L8800029"
+    },
+    {
+        "gameName": "Blackjack Spanish 2",
+        "gameCode": "L8800028"
+    },
+    {
+        "gameName": "Blackjack Spanish 10",
+        "gameCode": "L8800027"
+    },
+    {
+        "gameName": "Blackjack Emerald",
+        "gameCode": "L8800026"
+    },
+    {
+        "gameName": "Blackjack Ruby",
+        "gameCode": "L8800025"
+    },
+    {
+        "gameName": "Blackjack Português 2",
+        "gameCode": "L8800024"
+    },
+    {
+        "gameName": "Nefertiti's Nile",
+        "gameCode": "GA000096"
+    },
+    {
+        "gameName": "Francais Belle Roulette",
+        "gameCode": "VGL00008"
+    },
+    {
+        "gameName": "Galactic VIP Roulette",
+        "gameCode": "VGL00007"
+    },
+    {
+        "gameName": "European Portomaso Auto Roulette 2",
+        "gameCode": "VGL00006"
+    },
+    {
+        "gameName": "European Portomaso Auto Roulette",
+        "gameCode": "VGL00005"
+    },
+    {
+        "gameName": "Dancing Baccarat",
+        "gameCode": "VGL00004"
+    },
+    {
+        "gameName": "Blaze Roulette",
+        "gameCode": "VGL00003"
+    },
+    {
+        "gameName": "Caribbean Baccarat",
+        "gameCode": "VGL00002"
+    },
+    {
+        "gameName": "Copa Cabana Baccarat ",
+        "gameCode": "VGL00001"
+    },
+    {
+        "gameName": "Lucky Loser",
+        "gameCode": "GA000100"
+    },
+    {
+        "gameName": "Lucky Fruits & Diamonds",
+        "gameCode": "GA000099"
+    },
+    {
+        "gameName": "Money Farm Megaways",
+        "gameCode": "GA000098"
+    },
+    {
+        "gameName": "Midgard’s Fortune Megaways",
+        "gameCode": "GA000097"
+    },
+    {
+        "gameName": "Macau Baccarat",
+        "gameCode": "VGL00009"
+    },
+    {
+        "gameName": "Night at KTV",
+        "gameCode": "GA000095"
+    },
+    {
+        "gameName": "More Cash",
+        "gameCode": "GA000094"
+    },
+    {
+        "gameName": "Angry Dragons",
+        "gameCode": "GA000093"
+    },
+    {
+        "gameName": "Olympus Majesty",
+        "gameCode": "GA000092"
+    },
+    {
+        "gameName": "Norns' Fate",
+        "gameCode": "GA000091"
+    },
+    {
+        "gameName": "Monkey Pirates",
+        "gameCode": "GA000090"
+    },
+    {
+        "gameName": "Money Farm",
+        "gameCode": "GA000089"
+    },
+    {
+        "gameName": "Money Farm 2",
+        "gameCode": "GA000088"
+    },
+    {
+        "gameName": "Mega Wild Spin",
+        "gameCode": "GA000087"
+    },
+    {
+        "gameName": "Luxor Secrets Hold’n Win",
+        "gameCode": "GA000086"
+    },
+    {
+        "gameName": "Magic Dragon",
+        "gameCode": "GA000085"
+    },
+    {
+        "gameName": "Vivo Gaming Lobby",
+        "gameCode": "VGL00021"
+    },
+    {
+        "gameName": "Bomb Bonanza",
+        "gameCode": "PPC00069"
+    },
+    {
+        "gameName": "C8 Baccarat",
+        "gameCode": "HOG00007"
+    },
+    {
+        "gameName": "C6 Speed Baccarat",
+        "gameCode": "HOG00006"
+    },
+    {
+        "gameName": "C2 Speed Baccarat",
+        "gameCode": "HOG00005"
+    },
+    {
+        "gameName": "C5 Speed Baccarat",
+        "gameCode": "HOG00004"
+    },
+    {
+        "gameName": "C3 Speed Baccarat",
+        "gameCode": "HOG00003"
+    },
+    {
+        "gameName": "C4 Immersive Speed Baccarat",
+        "gameCode": "HOG00002"
+    },
+    {
+        "gameName": "C1 Speed Baccarat",
+        "gameCode": "HOG00001"
+    },
+    {
+        "gameName": "Portomaso Roulette",
+        "gameCode": "VGL00024"
+    },
+    {
+        "gameName": "Rapid-Auto Roulette",
+        "gameCode": "VGL00023"
+    },
+    {
+        "gameName": "Spanish Roulette",
+        "gameCode": "VGL00022"
+    },
+    {
+        "gameName": "Mariachi Fiesta",
+        "gameCode": "GA000084"
+    },
+    {
+        "gameName": "Singapore 3 Baccarat",
+        "gameCode": "VGL00020"
+    },
+    {
+        "gameName": "Oracle Twister Roulette",
+        "gameCode": "VGL00019"
+    },
+    {
+        "gameName": "Singapore 1 Baccarat",
+        "gameCode": "VGL00018"
+    },
+    {
+        "gameName": "Red Dragon Baccarat",
+        "gameCode": "VGL00017"
+    },
+    {
+        "gameName": "Singapore 2 Baccarat",
+        "gameCode": "VGL00016"
+    },
+    {
+        "gameName": "SicBo",
+        "gameCode": "VGL00015"
+    },
+    {
+        "gameName": "Miami Beach Baccarat ",
+        "gameCode": "VGL00014"
+    },
+    {
+        "gameName": "Las Vegas Roulette",
+        "gameCode": "VGL00013"
+    },
+    {
+        "gameName": "Mahogany Auto Roulette",
+        "gameCode": "VGL00012"
+    },
+    {
+        "gameName": "Limitless Blackjack",
+        "gameCode": "VGL00011"
+    },
+    {
+        "gameName": "American Auto Roulette",
+        "gameCode": "VGL00010"
+    },
+    {
+        "gameName": "Dynamite Fruits",
+        "gameCode": "GA000048"
+    },
+    {
+        "gameName": "Dynamite Fruits Deluxe",
+        "gameCode": "GA000059"
+    },
+    {
+        "gameName": "Golden Dragon",
+        "gameCode": "GA000058"
+    },
+    {
+        "gameName": "Frozen Joker",
+        "gameCode": "GA000057"
+    },
+    {
+        "gameName": "Five Star Luxury",
+        "gameCode": "GA000056"
+    },
+    {
+        "gameName": "Flaming Reels",
+        "gameCode": "GA000055"
+    },
+    {
+        "gameName": "Empire of Wealth",
+        "gameCode": "GA000054"
+    },
+    {
+        "gameName": "European roulette",
+        "gameCode": "GA000053"
+    },
+    {
+        "gameName": "Fate’s Fury",
+        "gameCode": "GA000052"
+    },
+    {
+        "gameName": "Emperors Wealth",
+        "gameCode": "GA000051"
+    },
+    {
+        "gameName": "Electric Power Play",
+        "gameCode": "GA000050"
+    },
+    {
+        "gameName": "Dragon Whisperer",
+        "gameCode": "GA000049"
+    },
+    {
+        "gameName": "Great Buffalo Megaways",
+        "gameCode": "GA000060"
+    },
+    {
+        "gameName": "Dragon King Megaways",
+        "gameCode": "GA000047"
+    },
+    {
+        "gameName": "Dragon Lady",
+        "gameCode": "GA000046"
+    },
+    {
+        "gameName": "Dolphin's Dream",
+        "gameCode": "GA000045"
+    },
+    {
+        "gameName": "Diamond Magic",
+        "gameCode": "GA000044"
+    },
+    {
+        "gameName": "Dawn of Olympus",
+        "gameCode": "GA000043"
+    },
+    {
+        "gameName": "Diamond Magic Deluxe",
+        "gameCode": "GA000042"
+    },
+    {
+        "gameName": "Clover Goes Wild",
+        "gameCode": "GA000041"
+    },
+    {
+        "gameName": "Cleopatra Jewels",
+        "gameCode": "GA000040"
+    },
+    {
+        "gameName": "Circus of Horror",
+        "gameCode": "GA000039"
+    },
+    {
+        "gameName": "Chinese Zodiac",
+        "gameCode": "GA000038"
+    },
+    {
+        "gameName": "Chili Quest",
+        "gameCode": "GA000037"
+    },
+    {
+        "gameName": "Joan of Arc",
+        "gameCode": "GA000072"
+    },
+    {
+        "gameName": "Lunar Rabbit",
+        "gameCode": "GA000083"
+    },
+    {
+        "gameName": "Lucky Pups",
+        "gameCode": "GA000082"
+    },
+    {
+        "gameName": "Lucky Reefs",
+        "gameCode": "GA000081"
+    },
+    {
+        "gameName": "Apocalypse Quest",
+        "gameCode": "GA000080"
+    },
+    {
+        "gameName": "Lucky Coins",
+        "gameCode": "GA000079"
+    },
+    {
+        "gameName": "Jingle Jokers",
+        "gameCode": "GA000078"
+    },
+    {
+        "gameName": "Lilly Palmer",
+        "gameCode": "GA000077"
+    },
+    {
+        "gameName": "Kukulkan’s Queen",
+        "gameCode": "GA000076"
+    },
+    {
+        "gameName": "Kitty Twins",
+        "gameCode": "GA000075"
+    },
+    {
+        "gameName": "Great Buffalo Hold'n Win",
+        "gameCode": "GA000074"
+    },
+    {
+        "gameName": "Golden Furong",
+        "gameCode": "GA000073"
+    },
+    {
+        "gameName": "J1 Blackjack",
+        "gameCode": "HOG00009"
+    },
+    {
+        "gameName": "Hawaiian Christmas",
+        "gameCode": "GA000071"
+    },
+    {
+        "gameName": "Jungle Rave",
+        "gameCode": "GA000070"
+    },
+    {
+        "gameName": "Hot Glowing Fruits",
+        "gameCode": "GA000069"
+    },
+    {
+        "gameName": "Jaguar Riches",
+        "gameCode": "GA000068"
+    },
+    {
+        "gameName": "Jazz Jam Jackpots",
+        "gameCode": "GA000067"
+    },
+    {
+        "gameName": "Hot Fruit Delights",
+        "gameCode": "GA000066"
+    },
+    {
+        "gameName": "Hollywoof",
+        "gameCode": "GA000065"
+    },
+    {
+        "gameName": "Gems Elevator",
+        "gameCode": "GA000064"
+    },
+    {
+        "gameName": "Helluva Slot",
+        "gameCode": "GA000063"
+    },
+    {
+        "gameName": "Halloween Farm",
+        "gameCode": "GA000062"
+    },
+    {
+        "gameName": "Greek Pantheon Megaways",
+        "gameCode": "GA000061"
+    },
+    {
+        "gameName": "Iron Bank",
+        "gameCode": "RLX00036"
+    },
+    {
+        "gameName": "Mega Heist",
+        "gameCode": "RLX00048"
+    },
+    {
+        "gameName": "Marching Legions",
+        "gameCode": "RLX00047"
+    },
+    {
+        "gameName": "Kraken's Cove",
+        "gameCode": "RLX00046"
+    },
+    {
+        "gameName": "Let's Get Ready To Rumble",
+        "gameCode": "RLX00045"
+    },
+    {
+        "gameName": "Lure of Fortune",
+        "gameCode": "RLX00044"
+    },
+    {
+        "gameName": "La Fiesta",
+        "gameCode": "RLX00043"
+    },
+    {
+        "gameName": "Kluster Krystals Megaclusters",
+        "gameCode": "RLX00042"
+    },
+    {
+        "gameName": "King of Kings",
+        "gameCode": "RLX00041"
+    },
+    {
+        "gameName": "Jurassic Party",
+        "gameCode": "RLX00040"
+    },
+    {
+        "gameName": "It's Time!!",
+        "gameCode": "RLX00039"
+    },
+    {
+        "gameName": "Joker Split",
+        "gameCode": "RLX00038"
+    },
+    {
+        "gameName": "Immortal 5",
+        "gameCode": "RLX00037"
+    },
+    {
+        "gameName": "Mega Flip",
+        "gameCode": "RLX00049"
+    },
+    {
+        "gameName": "Ignite The Night",
+        "gameCode": "RLX00035"
+    },
+    {
+        "gameName": "Hex",
+        "gameCode": "RLX00034"
+    },
+    {
+        "gameName": "Hot Rod Racers",
+        "gameCode": "RLX00033"
+    },
+    {
+        "gameName": "Horror Hotel",
+        "gameCode": "RLX00032"
+    },
+    {
+        "gameName": "Glyph of Gods",
+        "gameCode": "RLX00031"
+    },
+    {
+        "gameName": "Heroes Gathering",
+        "gameCode": "RLX00030"
+    },
+    {
+        "gameName": "Frequent Flyer",
+        "gameCode": "RLX00029"
+    },
+    {
+        "gameName": "Firewins Factory",
+        "gameCode": "RLX00028"
+    },
+    {
+        "gameName": "Hellcatraz",
+        "gameCode": "RLX00027"
+    },
+    {
+        "gameName": "Helios' Fury",
+        "gameCode": "RLX00026"
+    },
+    {
+        "gameName": "Erik The Red",
+        "gameCode": "RLX00025"
+    },
+    {
+        "gameName": "Money Train 4",
+        "gameCode": "RLX00061"
+    },
+    {
+        "gameName": "Shark Wash",
+        "gameCode": "RLX00072"
+    },
+    {
+        "gameName": "Santa's Stack",
+        "gameCode": "RLX00071"
+    },
+    {
+        "gameName": "Roulette Nouveau",
+        "gameCode": "RLX00070"
+    },
+    {
+        "gameName": "Sails Of Fortune",
+        "gameCode": "RLX00069"
+    },
+    {
+        "gameName": "Ramses Revenge",
+        "gameCode": "RLX00068"
+    },
+    {
+        "gameName": "Quackin' Reels",
+        "gameCode": "RLX00067"
+    },
+    {
+        "gameName": "Purrrminator",
+        "gameCode": "RLX00066"
+    },
+    {
+        "gameName": "Plunderland",
+        "gameCode": "RLX00065"
+    },
+    {
+        "gameName": "Powerspin",
+        "gameCode": "RLX00064"
+    },
+    {
+        "gameName": "Net Gains",
+        "gameCode": "RLX00063"
+    },
+    {
+        "gameName": "Multiplier Odyssey",
+        "gameCode": "RLX00062"
+    },
+    {
+        "gameName": "Hazakura Ways",
+        "gameCode": "RLX00024"
+    },
+    {
+        "gameName": "Money Train 3",
+        "gameCode": "RLX00060"
+    },
+    {
+        "gameName": "Money Train 2",
+        "gameCode": "RLX00059"
+    },
+    {
+        "gameName": "Money Train",
+        "gameCode": "RLX00058"
+    },
+    {
+        "gameName": "Money Cart 4",
+        "gameCode": "RLX00057"
+    },
+    {
+        "gameName": "Money Sleigh",
+        "gameCode": "RLX00056"
+    },
+    {
+        "gameName": "Money Cart 3",
+        "gameCode": "RLX00055"
+    },
+    {
+        "gameName": "Money Cart",
+        "gameCode": "RLX00054"
+    },
+    {
+        "gameName": "Money Cart 2",
+        "gameCode": "RLX00053"
+    },
+    {
+        "gameName": "Midnight Marauder",
+        "gameCode": "RLX00052"
+    },
+    {
+        "gameName": "Mega Mine",
+        "gameCode": "RLX00051"
+    },
+    {
+        "gameName": "Mega Masks",
+        "gameCode": "RLX00050"
+    },
+    {
+        "gameName": "King of the God Zeus Lock 2 Spin",
+        "gameCode": "KAG00087"
+    },
+    {
+        "gameName": "Monster Go Shopping",
+        "gameCode": "KAG00099"
+    },
+    {
+        "gameName": "Modern 7 Wonders",
+        "gameCode": "KAG00098"
+    },
+    {
+        "gameName": "Medal Winner Megaways",
+        "gameCode": "KAG00097"
+    },
+    {
+        "gameName": "Monster Parade",
+        "gameCode": "KAG00096"
+    },
+    {
+        "gameName": "Boom X",
+        "gameCode": "KAG00095"
+    },
+    {
+        "gameName": "Luck88",
+        "gameCode": "KAG00094"
+    },
+    {
+        "gameName": "Last Fantasy",
+        "gameCode": "KAG00093"
+    },
+    {
+        "gameName": "Mania Lotto",
+        "gameCode": "KAG00092"
+    },
+    {
+        "gameName": "Luxury Garage",
+        "gameCode": "KAG00091"
+    },
+    {
+        "gameName": "Lion King and Eagle King",
+        "gameCode": "KAG00090"
+    },
+    {
+        "gameName": "Miss Tiger",
+        "gameCode": "KAG00089"
+    },
+    {
+        "gameName": "Bonus Vending",
+        "gameCode": "KAG00088"
+    },
+    {
+        "gameName": "Mermaid Seas",
+        "gameCode": "KAG00100"
+    },
+    {
+        "gameName": "KungFu Kaga",
+        "gameCode": "KAG00086"
+    },
+    {
+        "gameName": "Medieval Knights",
+        "gameCode": "KAG00085"
+    },
+    {
+        "gameName": "King of Dragon",
+        "gameCode": "KAG00084"
+    },
+    {
+        "gameName": "Magic Witches",
+        "gameCode": "KAG00083"
+    },
+    {
+        "gameName": "Lucky Golden Dragon Lock 2 Spin",
+        "gameCode": "KAG00082"
+    },
+    {
+        "gameName": "Lucky Video Poker",
+        "gameCode": "KAG00081"
+    },
+    {
+        "gameName": "Jungle",
+        "gameCode": "KAG00080"
+    },
+    {
+        "gameName": "Lounge Club",
+        "gameCode": "KAG00079"
+    },
+    {
+        "gameName": "Heng and Ha",
+        "gameCode": "KAG00078"
+    },
+    {
+        "gameName": "Kitty Living",
+        "gameCode": "KAG00077"
+    },
+    {
+        "gameName": "Kick Pumpkin",
+        "gameCode": "KAG00076"
+    },
+    {
+        "gameName": "Cluster Tumble",
+        "gameCode": "RLX00012"
+    },
+    {
+        "gameName": "Fang's Inferno",
+        "gameCode": "RLX00023"
+    },
+    {
+        "gameName": "Feather Fury",
+        "gameCode": "RLX00022"
+    },
+    {
+        "gameName": "Giants & Sheep",
+        "gameCode": "RLX00021"
+    },
+    {
+        "gameName": "Chip Spin",
+        "gameCode": "RLX00020"
+    },
+    {
+        "gameName": "Dragons Awakening",
+        "gameCode": "RLX00019"
+    },
+    {
+        "gameName": "Camelot Cash",
+        "gameCode": "RLX00018"
+    },
+    {
+        "gameName": "Emerald's Infinity Reels",
+        "gameCode": "RLX00017"
+    },
+    {
+        "gameName": "Cash in Transit",
+        "gameCode": "RLX00016"
+    },
+    {
+        "gameName": "Dead Man's Trail",
+        "gameCode": "RLX00015"
+    },
+    {
+        "gameName": "Deep Descent",
+        "gameCode": "RLX00014"
+    },
+    {
+        "gameName": "Dead Riders Trail",
+        "gameCode": "RLX00013"
+    },
+    {
+        "gameName": "Sloth Tumble",
+        "gameCode": "RLX00073"
+    },
+    {
+        "gameName": "Book Of Power",
+        "gameCode": "RLX00011"
+    },
+    {
+        "gameName": "Book of 99",
+        "gameCode": "RLX00010"
+    },
+    {
+        "gameName": "Caveman Bob",
+        "gameCode": "RLX00009"
+    },
+    {
+        "gameName": "Bill & Coin",
+        "gameCode": "RLX00008"
+    },
+    {
+        "gameName": "Banana Town",
+        "gameCode": "RLX00007"
+    },
+    {
+        "gameName": "Ancient Tumble",
+        "gameCode": "RLX00006"
+    },
+    {
+        "gameName": "Blackjack Neo",
+        "gameCode": "RLX00005"
+    },
+    {
+        "gameName": "Blender Blitz",
+        "gameCode": "RLX00004"
+    },
+    {
+        "gameName": "Beast Mode",
+        "gameCode": "RLX00003"
+    },
+    {
+        "gameName": "Bone Raiders",
+        "gameCode": "RLX00002"
+    },
+    {
+        "gameName": "Atlantis Crush",
+        "gameCode": "RLX00001"
+    },
+    {
+        "gameName": "Rave On",
+        "gameCode": "NAG00034"
+    },
+    {
+        "gameName": "Vault of Riches",
+        "gameCode": "NAG00046"
+    },
+    {
+        "gameName": "Surf Monkey",
+        "gameCode": "NAG00045"
+    },
+    {
+        "gameName": "Sugary Bonanza",
+        "gameCode": "NAG00044"
+    },
+    {
+        "gameName": "Super Phoenix",
+        "gameCode": "NAG00043"
+    },
+    {
+        "gameName": "Steampunk Reloaded",
+        "gameCode": "NAG00042"
+    },
+    {
+        "gameName": "Stallion Princess",
+        "gameCode": "NAG00041"
+    },
+    {
+        "gameName": "Sexy Christmas Sirens",
+        "gameCode": "NAG00040"
+    },
+    {
+        "gameName": "Spring Harvest",
+        "gameCode": "NAG00039"
+    },
+    {
+        "gameName": "SanGuo - The Brotherhood",
+        "gameCode": "NAG00038"
+    },
+    {
+        "gameName": "Pumpkin Night",
+        "gameCode": "NAG00037"
+    },
+    {
+        "gameName": "Sakura Neko",
+        "gameCode": "NAG00036"
+    },
+    {
+        "gameName": "Pawsome Xmas",
+        "gameCode": "NAG00035"
+    },
+    {
+        "gameName": "Temple of Gods",
+        "gameCode": "NAG00047"
+    },
+    {
+        "gameName": "Samba Fiesta",
+        "gameCode": "NAG00033"
+    },
+    {
+        "gameName": "Mysteries of Pandora",
+        "gameCode": "NAG00032"
+    },
+    {
+        "gameName": "Run Pug Run",
+        "gameCode": "NAG00031"
+    },
+    {
+        "gameName": "Queen of Aztec",
+        "gameCode": "NAG00030"
+    },
+    {
+        "gameName": "Persian Gems",
+        "gameCode": "NAG00029"
+    },
+    {
+        "gameName": "Muay Thai Arena",
+        "gameCode": "NAG00028"
+    },
+    {
+        "gameName": "Mayan Gold Hunt",
+        "gameCode": "NAG00027"
+    },
+    {
+        "gameName": "Mochi Mochi",
+        "gameCode": "NAG00026"
+    },
+    {
+        "gameName": "Mermaid's Treasure",
+        "gameCode": "NAG00025"
+    },
+    {
+        "gameName": "Mega Wild Safari",
+        "gameCode": "NAG00024"
+    },
+    {
+        "gameName": "Mahjong Fortune",
+        "gameCode": "NAG00023"
+    },
+    {
+        "gameName": "Adventures Beyond Wonderland Magical Maze",
+        "gameCode": "QS000004"
+    },
+    {
+        "gameName": "Brawlers Bar Cash Collect",
+        "gameCode": "QS000015"
+    },
+    {
+        "gameName": "Dragon Shrine",
+        "gameCode": "QS000014"
+    },
+    {
+        "gameName": "Cash Truck 3 Turbo",
+        "gameCode": "QS000013"
+    },
+    {
+        "gameName": "Catrina’s Coins",
+        "gameCode": "QS000012"
+    },
+    {
+        "gameName": "Cash Truck Xmas Delivery",
+        "gameCode": "QS000011"
+    },
+    {
+        "gameName": "Big Bad Wolf Megaways",
+        "gameCode": "QS000010"
+    },
+    {
+        "gameName": "Cash Truck 2",
+        "gameCode": "QS000009"
+    },
+    {
+        "gameName": "Azticons Chaos Clusters",
+        "gameCode": "QS000008"
+    },
+    {
+        "gameName": "Cash Truck",
+        "gameCode": "QS000007"
+    },
+    {
+        "gameName": "Brooklyn Bootleggers",
+        "gameCode": "QS000006"
+    },
+    {
+        "gameName": "Book of Duat",
+        "gameCode": "QS000005"
+    },
+    {
+        "gameName": "Kawaii Neko",
+        "gameCode": "NAG00022"
+    },
+    {
+        "gameName": "Big Bad Wolf: Pigs of Steel",
+        "gameCode": "QS000003"
+    },
+    {
+        "gameName": "Big Bad Wolf",
+        "gameCode": "QS000002"
+    },
+    {
+        "gameName": "Betty Bonkers",
+        "gameCode": "QS000001"
+    },
+    {
+        "gameName": "Longevity Dragon",
+        "gameCode": "NAG00055"
+    },
+    {
+        "gameName": "Lulu's Enchanted Forest",
+        "gameCode": "NAG00054"
+    },
+    {
+        "gameName": "Wrath of Zeus",
+        "gameCode": "NAG00053"
+    },
+    {
+        "gameName": "Wishes of the Genie",
+        "gameCode": "NAG00052"
+    },
+    {
+        "gameName": "Wild West Saloon",
+        "gameCode": "NAG00051"
+    },
+    {
+        "gameName": "Wild Fish Hunter",
+        "gameCode": "NAG00050"
+    },
+    {
+        "gameName": "TNT Fiesta",
+        "gameCode": "NAG00049"
+    },
+    {
+        "gameName": "Viking Valor",
+        "gameCode": "NAG00048"
+    },
+    {
+        "gameName": "Tiger Kingdom Infinity Reels",
+        "gameCode": "RLX00085"
+    },
+    {
+        "gameName": "Wildchemy",
+        "gameCode": "RLX00097"
+    },
+    {
+        "gameName": "Volatile Vikings",
+        "gameCode": "RLX00096"
+    },
+    {
+        "gameName": "Wild Chapo",
+        "gameCode": "RLX00095"
+    },
+    {
+        "gameName": "Wild Yield",
+        "gameCode": "RLX00094"
+    },
+    {
+        "gameName": "Epic Joker",
+        "gameCode": "RLX00093"
+    },
+    {
+        "gameName": "Winter Champions",
+        "gameCode": "RLX00092"
+    },
+    {
+        "gameName": "Troll's Gold",
+        "gameCode": "RLX00091"
+    },
+    {
+        "gameName": "Tower Tumble",
+        "gameCode": "RLX00090"
+    },
+    {
+        "gameName": "Top Dawg$",
+        "gameCode": "RLX00089"
+    },
+    {
+        "gameName": "Torii Tumble",
+        "gameCode": "RLX00088"
+    },
+    {
+        "gameName": "Titan Strike",
+        "gameCode": "RLX00087"
+    },
+    {
+        "gameName": "Tiger Shrine",
+        "gameCode": "RLX00086"
+    },
+    {
+        "gameName": "Wild Chapo 2",
+        "gameCode": "RLX00098"
+    },
+    {
+        "gameName": "The Tumbles",
+        "gameCode": "RLX00084"
+    },
+    {
+        "gameName": "The Great Pigsby Megaways",
+        "gameCode": "RLX00083"
+    },
+    {
+        "gameName": "The Great Pigsby",
+        "gameCode": "RLX00082"
+    },
+    {
+        "gameName": "Temple Tumble Megaways",
+        "gameCode": "RLX00081"
+    },
+    {
+        "gameName": "Templar Tumble",
+        "gameCode": "RLX00080"
+    },
+    {
+        "gameName": "TNT Tumble",
+        "gameCode": "RLX00079"
+    },
+    {
+        "gameName": "Sweetopia Royale",
+        "gameCode": "RLX00078"
+    },
+    {
+        "gameName": "Spirit of the Beast",
+        "gameCode": "RLX00077"
+    },
+    {
+        "gameName": "Sultan Spins",
+        "gameCode": "RLX00076"
+    },
+    {
+        "gameName": "Space Miners",
+        "gameCode": "RLX00075"
+    },
+    {
+        "gameName": "Snake Arena",
+        "gameCode": "RLX00074"
+    },
+    {
+        "gameName": "Chasing Leprechaun Coins",
+        "gameCode": "NAG00010"
+    },
+    {
+        "gameName": "Legend of the White & Green Snake",
+        "gameCode": "NAG00021"
+    },
+    {
+        "gameName": "Legendary El Toro",
+        "gameCode": "NAG00020"
+    },
+    {
+        "gameName": "Las Vegas Party",
+        "gameCode": "NAG00019"
+    },
+    {
+        "gameName": "Lion Dance Fortune",
+        "gameCode": "NAG00018"
+    },
+    {
+        "gameName": "Kung Fu Warrior",
+        "gameCode": "NAG00017"
+    },
+    {
+        "gameName": "God of Fortune",
+        "gameCode": "NAG00016"
+    },
+    {
+        "gameName": "Bikini Babes",
+        "gameCode": "NAG00015"
+    },
+    {
+        "gameName": "Gladiators",
+        "gameCode": "NAG00014"
+    },
+    {
+        "gameName": "Aphrodite - Goddess of Love",
+        "gameCode": "NAG00013"
+    },
+    {
+        "gameName": "Gangster's Paradise",
+        "gameCode": "NAG00012"
+    },
+    {
+        "gameName": "Empress of the Black Seas",
+        "gameCode": "NAG00011"
+    },
+    {
+        "gameName": "KA Fish Hunter",
+        "gameCode": "KAG00075"
+    },
+    {
+        "gameName": "Amazing Circus",
+        "gameCode": "NAG00009"
+    },
+    {
+        "gameName": "Golden Hatch",
+        "gameCode": "NAG00008"
+    },
+    {
+        "gameName": "Bierfest Delight",
+        "gameCode": "NAG00007"
+    },
+    {
+        "gameName": "Gates of Kunlun",
+        "gameCode": "NAG00006"
+    },
+    {
+        "gameName": "Countdown to Fortune",
+        "gameCode": "NAG00005"
+    },
+    {
+        "gameName": "Adventures of Caramelo",
+        "gameCode": "NAG00004"
+    },
+    {
+        "gameName": "Dragon Wonder",
+        "gameCode": "NAG00003"
+    },
+    {
+        "gameName": "Gold Seekers",
+        "gameCode": "NAG00002"
+    },
+    {
+        "gameName": "Forbidden Island",
+        "gameCode": "NAG00001"
+    },
+    {
+        "gameName": "Epic Dreams",
+        "gameCode": "RLX00100"
+    },
+    {
+        "gameName": "Wild Hike",
+        "gameCode": "RLX00099"
+    },
+    {
+        "gameName": "Christmas Reach",
+        "gameCode": "EVP00035"
+    },
+    {
+        "gameName": "Cycle of Luck Bonus Buy",
+        "gameCode": "EVP00047"
+    },
+    {
+        "gameName": "Cycle of Luck",
+        "gameCode": "EVP00046"
+    },
+    {
+        "gameName": "Cursed Can Bonus Buy",
+        "gameCode": "EVP00045"
+    },
+    {
+        "gameName": "Cursed Castle",
+        "gameCode": "EVP00044"
+    },
+    {
+        "gameName": "Cursed Can",
+        "gameCode": "EVP00043"
+    },
+    {
+        "gameName": "Curse of Pharaoh",
+        "gameCode": "EVP00042"
+    },
+    {
+        "gameName": "Curse of the Pharaoh Bonus Buy",
+        "gameCode": "EVP00041"
+    },
+    {
+        "gameName": "Courier Sweeper",
+        "gameCode": "EVP00040"
+    },
+    {
+        "gameName": "Collapsed Castle Bonus Buy",
+        "gameCode": "EVP00039"
+    },
+    {
+        "gameName": "Collapsed Castle",
+        "gameCode": "EVP00038"
+    },
+    {
+        "gameName": "Clash of Pirates",
+        "gameCode": "EVP00037"
+    },
+    {
+        "gameName": "Christmas Reach Bonus Buy",
+        "gameCode": "EVP00036"
+    },
+    {
+        "gameName": "Dolce Dreams",
+        "gameCode": "EVP00048"
+    },
+    {
+        "gameName": "Christmas Crash",
+        "gameCode": "EVP00034"
+    },
+    {
+        "gameName": "Chinese New Year",
+        "gameCode": "EVP00033"
+    },
+    {
+        "gameName": "Chosen by the Gods",
+        "gameCode": "EVP00032"
+    },
+    {
+        "gameName": "Chained Fighters",
+        "gameCode": "EVP00031"
+    },
+    {
+        "gameName": "Catch the Wind Bonus Buy",
+        "gameCode": "EVP00030"
+    },
+    {
+        "gameName": "Catch the Wind",
+        "gameCode": "EVP00029"
+    },
+    {
+        "gameName": "Cat's Blessing",
+        "gameCode": "EVP00028"
+    },
+    {
+        "gameName": "Candy Dreams: Sweet Planet Bonus Buy",
+        "gameCode": "EVP00027"
+    },
+    {
+        "gameName": "Candy Dreams: Sweet Planet",
+        "gameCode": "EVP00026"
+    },
+    {
+        "gameName": "Candy Dreams",
+        "gameCode": "EVP00025"
+    },
+    {
+        "gameName": "Camino de Chili Bonus Buy",
+        "gameCode": "EVP00024"
+    },
+    {
+        "gameName": "Europe Transit",
+        "gameCode": "EVP00060"
+    },
+    {
+        "gameName": "Four Aces",
+        "gameCode": "EVP00071"
+    },
+    {
+        "gameName": "Football Scratch",
+        "gameCode": "EVP00070"
+    },
+    {
+        "gameName": "Forest Dreams",
+        "gameCode": "EVP00069"
+    },
+    {
+        "gameName": "Football",
+        "gameCode": "EVP00067"
+    },
+    {
+        "gameName": "Food Feast",
+        "gameCode": "EVP00066"
+    },
+    {
+        "gameName": "Fluffy Rangers",
+        "gameCode": "EVP00065"
+    },
+    {
+        "gameName": "Exploding Fruits",
+        "gameCode": "EVP00064"
+    },
+    {
+        "gameName": "Expanding Master",
+        "gameCode": "EVP00063"
+    },
+    {
+        "gameName": "European Roulette",
+        "gameCode": "EVP02006"
+    },
+    {
+        "gameName": "Europe Transit Snowdrift",
+        "gameCode": "EVP00062"
+    },
+    {
+        "gameName": "Europe Transit Bonus Buy",
+        "gameCode": "EVP00061"
+    },
+    {
+        "gameName": "Candy Craze",
+        "gameCode": "EVP00023"
+    },
+    {
+        "gameName": "Ethan Grand: Mayan Diaries",
+        "gameCode": "EVP00059"
+    },
+    {
+        "gameName": "Epic Legends",
+        "gameCode": "EVP00058"
+    },
+    {
+        "gameName": "Epic Gladiators",
+        "gameCode": "EVP00057"
+    },
+    {
+        "gameName": "Emerald Brewer",
+        "gameCode": "EVP00056"
+    },
+    {
+        "gameName": "Elven Princesses: Crown Quest",
+        "gameCode": "EVP00055"
+    },
+    {
+        "gameName": "Elven Princesses",
+        "gameCode": "EVP00054"
+    },
+    {
+        "gameName": "Ellen’s Fortune",
+        "gameCode": "EVP00053"
+    },
+    {
+        "gameName": "Egypt Gods",
+        "gameCode": "EVP00052"
+    },
+    {
+        "gameName": "Dungeon: Immortal Evil",
+        "gameCode": "EVP00051"
+    },
+    {
+        "gameName": "Dragon Tavern Bonus Buy",
+        "gameCode": "EVP00050"
+    },
+    {
+        "gameName": "Dolphin's Treasure",
+        "gameCode": "EVP00049"
+    },
+    {
+        "gameName": "Candy Blitz",
+        "gameCode": "PPC00081"
+    },
+    {
+        "gameName": "Ace Round",
+        "gameCode": "EVP00001"
+    },
+    {
+        "gameName": "Aztec Powernudge",
+        "gameCode": "PPC00092"
+    },
+    {
+        "gameName": "Aztec King Megaways",
+        "gameCode": "PPC00091"
+    },
+    {
+        "gameName": "Candy Village",
+        "gameCode": "PPC00090"
+    },
+    {
+        "gameName": "Candy Stars",
+        "gameCode": "PPC00089"
+    },
+    {
+        "gameName": "Cash Bonanza",
+        "gameCode": "PPC00088"
+    },
+    {
+        "gameName": "Candy Jar Clusters",
+        "gameCode": "PPC00087"
+    },
+    {
+        "gameName": "Candy Corner",
+        "gameCode": "PPC00086"
+    },
+    {
+        "gameName": "Buffalo King",
+        "gameCode": "PPC00085"
+    },
+    {
+        "gameName": "Candy Blitz Bombs",
+        "gameCode": "PPC00084"
+    },
+    {
+        "gameName": "Caishen’s Gold",
+        "gameCode": "PPC00083"
+    },
+    {
+        "gameName": "Bull Fiesta",
+        "gameCode": "PPC00082"
+    },
+    {
+        "gameName": "Animal Quest",
+        "gameCode": "EVP00002"
+    },
+    {
+        "gameName": "Bounty Gold",
+        "gameCode": "PPC00080"
+    },
+    {
+        "gameName": "Buffalo King Megaways",
+        "gameCode": "PPC00079"
+    },
+    {
+        "gameName": "Caishen's Cash",
+        "gameCode": "PPC00078"
+    },
+    {
+        "gameName": "Bubble Pop",
+        "gameCode": "PPC00076"
+    },
+    {
+        "gameName": "Book of Kingdoms",
+        "gameCode": "PPC00075"
+    },
+    {
+        "gameName": "Brick House Bonanza",
+        "gameCode": "PPC00074"
+    },
+    {
+        "gameName": "Bow of Artemis",
+        "gameCode": "PPC00073"
+    },
+    {
+        "gameName": "Book of The Fallen",
+        "gameCode": "PPC00072"
+    },
+    {
+        "gameName": "Book of Aztec King",
+        "gameCode": "PPC00071"
+    },
+    {
+        "gameName": "Book of Monsters",
+        "gameCode": "PPC00070"
+    },
+    {
+        "gameName": "Mega Ace",
+        "gameCode": "JIL00086"
+    },
+    {
+        "gameName": "Battle Tanks",
+        "gameCode": "EVP00012"
+    },
+    {
+        "gameName": "Camino de Chili",
+        "gameCode": "EVP00022"
+    },
+    {
+        "gameName": "Bull's Club",
+        "gameCode": "EVP00021"
+    },
+    {
+        "gameName": "Budai Reels Bonus Buy",
+        "gameCode": "EVP00020"
+    },
+    {
+        "gameName": "Budai Reels",
+        "gameCode": "EVP00019"
+    },
+    {
+        "gameName": "Brutal Santa",
+        "gameCode": "EVP00018"
+    },
+    {
+        "gameName": "Book of the Priestess Bonus Buy",
+        "gameCode": "EVP00017"
+    },
+    {
+        "gameName": "Book of the Priestess",
+        "gameCode": "EVP00016"
+    },
+    {
+        "gameName": "Blessed Flames",
+        "gameCode": "EVP00015"
+    },
+    {
+        "gameName": "Belfry Bliss",
+        "gameCode": "EVP00014"
+    },
+    {
+        "gameName": "Blackjack Lucky Sevens",
+        "gameCode": "EVP02004"
+    },
+    {
+        "gameName": "Big Catch Game",
+        "gameCode": "EVP00013"
+    },
+    {
+        "gameName": "French Roulette Classic",
+        "gameCode": "EVP02007"
+    },
+    {
+        "gameName": "Battle Roosters",
+        "gameCode": "EVP00011"
+    },
+    {
+        "gameName": "Battle Roosters Bonus Buy",
+        "gameCode": "EVP00010"
+    },
+    {
+        "gameName": "Bandit Bust Bonus Buy",
+        "gameCode": "EVP00009"
+    },
+    {
+        "gameName": "Basketball",
+        "gameCode": "EVP00008"
+    },
+    {
+        "gameName": "Anubis Moon",
+        "gameCode": "EVP00007"
+    },
+    {
+        "gameName": "American Roulette 3D",
+        "gameCode": "EVP02001"
+    },
+    {
+        "gameName": "Bandit Bust",
+        "gameCode": "EVP00006"
+    },
+    {
+        "gameName": "B-Ball Blitz",
+        "gameCode": "EVP00005"
+    },
+    {
+        "gameName": "Baccarat 777",
+        "gameCode": "EVP02003"
+    },
+    {
+        "gameName": "Avia Rush",
+        "gameCode": "EVP00004"
+    },
+    {
+        "gameName": "Adrenaline Rush: Scratch",
+        "gameCode": "EVP00003"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "KAG00038"
+    },
+    {
+        "gameName": "Fire Hit",
+        "gameCode": "KAG00050"
+    },
+    {
+        "gameName": "Fly To Universe",
+        "gameCode": "KAG00049"
+    },
+    {
+        "gameName": "Fishing Tycoon",
+        "gameCode": "KAG00048"
+    },
+    {
+        "gameName": "Fantasy Park",
+        "gameCode": "KAG00047"
+    },
+    {
+        "gameName": "Farm Mania",
+        "gameCode": "KAG00046"
+    },
+    {
+        "gameName": "Fairy Dust",
+        "gameCode": "KAG00045"
+    },
+    {
+        "gameName": "Explosion Magic",
+        "gameCode": "KAG00044"
+    },
+    {
+        "gameName": "Evil Pumpkin",
+        "gameCode": "KAG00043"
+    },
+    {
+        "gameName": "Fa Cai Destiny",
+        "gameCode": "KAG00042"
+    },
+    {
+        "gameName": "Dracula",
+        "gameCode": "KAG00041"
+    },
+    {
+        "gameName": "Endorser of Thor",
+        "gameCode": "KAG00040"
+    },
+    {
+        "gameName": "European Roulette",
+        "gameCode": "KAG00039"
+    },
+    {
+        "gameName": "Fortune Code",
+        "gameCode": "KAG00051"
+    },
+    {
+        "gameName": "Deluxe Wallet",
+        "gameCode": "KAG00037"
+    },
+    {
+        "gameName": "Devil Buster",
+        "gameCode": "KAG00036"
+    },
+    {
+        "gameName": "Don Quixote",
+        "gameCode": "KAG00035"
+    },
+    {
+        "gameName": "Desert Island Adventure Lock 2 Spin",
+        "gameCode": "KAG00034"
+    },
+    {
+        "gameName": "Dim Sum",
+        "gameCode": "KAG00033"
+    },
+    {
+        "gameName": "Deluxe Dice",
+        "gameCode": "KAG00032"
+    },
+    {
+        "gameName": "Darts Champion",
+        "gameCode": "KAG00031"
+    },
+    {
+        "gameName": "Deep Sea Adventure",
+        "gameCode": "KAG00030"
+    },
+    {
+        "gameName": "Dark Fortress",
+        "gameCode": "KAG00029"
+    },
+    {
+        "gameName": "Dark Family",
+        "gameCode": "KAG00028"
+    },
+    {
+        "gameName": "Christmas Wheel",
+        "gameCode": "KAG00027"
+    },
+    {
+        "gameName": "Golden Dragon",
+        "gameCode": "KAG00063"
+    },
+    {
+        "gameName": "Genie",
+        "gameCode": "KAG00074"
+    },
+    {
+        "gameName": "Infinity X",
+        "gameCode": "KAG00073"
+    },
+    {
+        "gameName": "Hypersonic X",
+        "gameCode": "KAG00072"
+    },
+    {
+        "gameName": "Impossible X",
+        "gameCode": "KAG00071"
+    },
+    {
+        "gameName": "Hua Mulan",
+        "gameCode": "KAG00070"
+    },
+    {
+        "gameName": "Home Run X",
+        "gameCode": "KAG00069"
+    },
+    {
+        "gameName": "Golf Master",
+        "gameCode": "KAG00068"
+    },
+    {
+        "gameName": "Golden Wheel",
+        "gameCode": "KAG00067"
+    },
+    {
+        "gameName": "Golden Fish Hunter",
+        "gameCode": "KAG00066"
+    },
+    {
+        "gameName": "Full Throttle",
+        "gameCode": "KAG00065"
+    },
+    {
+        "gameName": "Fortune Star Lock 2 Spin",
+        "gameCode": "KAG00064"
+    },
+    {
+        "gameName": "Cu Ju",
+        "gameCode": "KAG00026"
+    },
+    {
+        "gameName": "Golden Crab",
+        "gameCode": "KAG00062"
+    },
+    {
+        "gameName": "Golden Bull",
+        "gameCode": "KAG00061"
+    },
+    {
+        "gameName": "Fantasy War",
+        "gameCode": "KAG00060"
+    },
+    {
+        "gameName": "Gangster Overlord",
+        "gameCode": "KAG00059"
+    },
+    {
+        "gameName": "Fruit Party",
+        "gameCode": "KAG00058"
+    },
+    {
+        "gameName": "Fruit Mountain",
+        "gameCode": "KAG00057"
+    },
+    {
+        "gameName": "French Roulette",
+        "gameCode": "KAG00056"
+    },
+    {
+        "gameName": "Fortune's Number",
+        "gameCode": "KAG00055"
+    },
+    {
+        "gameName": "Fortune Wheel",
+        "gameCode": "KAG00054"
+    },
+    {
+        "gameName": "Fortune Rabbit Lock 2 Spin",
+        "gameCode": "KAG00053"
+    },
+    {
+        "gameName": "Fortune Ganesha",
+        "gameCode": "KAG00052"
+    },
+    {
+        "gameName": "Good Luck Spell",
+        "gameCode": "EVP00084"
+    },
+    {
+        "gameName": "American Roulette",
+        "gameCode": "KAG00001"
+    },
+    {
+        "gameName": "Book of Keno",
+        "gameCode": "EVP00094"
+    },
+    {
+        "gameName": "Bonanza Wheel",
+        "gameCode": "EVP02005"
+    },
+    {
+        "gameName": "Hot Slice",
+        "gameCode": "EVP00093"
+    },
+    {
+        "gameName": "Hot Triple Sevens",
+        "gameCode": "EVP00092"
+    },
+    {
+        "gameName": "Hot Rio Nights Bonus Buy",
+        "gameCode": "EVP00091"
+    },
+    {
+        "gameName": "Hot Rio Nights",
+        "gameCode": "EVP00090"
+    },
+    {
+        "gameName": "Hot Mania",
+        "gameCode": "EVP00089"
+    },
+    {
+        "gameName": "Hockey Shootout",
+        "gameCode": "EVP00088"
+    },
+    {
+        "gameName": "Hercules: Sports Legend",
+        "gameCode": "EVP00086"
+    },
+    {
+        "gameName": "Heads & Tails",
+        "gameCode": "EVP00085"
+    },
+    {
+        "gameName": "Alice In Wonderland",
+        "gameCode": "KAG00002"
+    },
+    {
+        "gameName": "Gold of Sirens",
+        "gameCode": "EVP00083"
+    },
+    {
+        "gameName": "Goddes of the Night",
+        "gameCode": "EVP00082"
+    },
+    {
+        "gameName": "Goddes Of the Night Bonus Buy",
+        "gameCode": "EVP00081"
+    },
+    {
+        "gameName": "Fruit super Nova 30",
+        "gameCode": "EVP00080"
+    },
+    {
+        "gameName": "Fruit Super Nova 60",
+        "gameCode": "EVP00078"
+    },
+    {
+        "gameName": "Fruit Super Nova 80",
+        "gameCode": "EVP00077"
+    },
+    {
+        "gameName": "Fruit Super Nova 40",
+        "gameCode": "EVP00076"
+    },
+    {
+        "gameName": "Fruit Super Nova 100",
+        "gameCode": "EVP00075"
+    },
+    {
+        "gameName": "Fruit Nova",
+        "gameCode": "EVP00074"
+    },
+    {
+        "gameName": "Fruit Super Nova",
+        "gameCode": "EVP00073"
+    },
+    {
+        "gameName": "Fruit Burst",
+        "gameCode": "EVP00072"
+    },
+    {
+        "gameName": "Aces and Eights",
+        "gameCode": "KAG00014"
+    },
+    {
+        "gameName": "Chinese Phoenix",
+        "gameCode": "KAG00025"
+    },
+    {
+        "gameName": "Clean House",
+        "gameCode": "KAG00024"
+    },
+    {
+        "gameName": "Candy Storm",
+        "gameCode": "KAG00023"
+    },
+    {
+        "gameName": "Cheerleading Team",
+        "gameCode": "KAG00022"
+    },
+    {
+        "gameName": "Calorie Killer",
+        "gameCode": "KAG00021"
+    },
+    {
+        "gameName": "Cai Shen Dao",
+        "gameCode": "KAG00020"
+    },
+    {
+        "gameName": "Bubble Double",
+        "gameCode": "KAG00019"
+    },
+    {
+        "gameName": "Boy Toys",
+        "gameCode": "KAG00018"
+    },
+    {
+        "gameName": "Bonus Mania Plinko",
+        "gameCode": "KAG00017"
+    },
+    {
+        "gameName": "Bear Run",
+        "gameCode": "KAG00016"
+    },
+    {
+        "gameName": "Awesome Lucky Wheel",
+        "gameCode": "KAG00015"
+    },
+    {
+        "gameName": "Book of Golden Sands",
+        "gameCode": "PPC00068"
+    },
+    {
+        "gameName": "Artist Studio",
+        "gameCode": "KAG00013"
+    },
+    {
+        "gameName": "Awesome Treasure",
+        "gameCode": "KAG00012"
+    },
+    {
+        "gameName": "A Girl's Best Friend",
+        "gameCode": "KAG00011"
+    },
+    {
+        "gameName": "Bonus Mania Deluxe",
+        "gameCode": "KAG00010"
+    },
+    {
+        "gameName": "Bonus Mania",
+        "gameCode": "KAG00009"
+    },
+    {
+        "gameName": "Blazing Heat Roulette",
+        "gameCode": "KAG00008"
+    },
+    {
+        "gameName": "Blast Man",
+        "gameCode": "KAG00007"
+    },
+    {
+        "gameName": "Baseball Fever",
+        "gameCode": "KAG00006"
+    },
+    {
+        "gameName": "Agent Angels",
+        "gameCode": "KAG00005"
+    },
+    {
+        "gameName": "Angry Piggies",
+        "gameCode": "KAG00004"
+    },
+    {
+        "gameName": "Aqua Moto Racing",
+        "gameCode": "KAG00003"
+    },
+    {
+        "gameName": "Gold Rush",
+        "gameCode": "FCG00015"
+    },
+    {
+        "gameName": "Night Market",
+        "gameCode": "FCG00027"
+    },
+    {
+        "gameName": "Merge Magic",
+        "gameCode": "FCG00026"
+    },
+    {
+        "gameName": "Magic Beans",
+        "gameCode": "FCG00025"
+    },
+    {
+        "gameName": "Luxury Golden Panther",
+        "gameCode": "FCG00024"
+    },
+    {
+        "gameName": "Lucky Fortunes 3x3",
+        "gameCode": "FCG00023"
+    },
+    {
+        "gameName": "Lucky Fortunes",
+        "gameCode": "FCG00022"
+    },
+    {
+        "gameName": "Legend of Inca",
+        "gameCode": "FCG00021"
+    },
+    {
+        "gameName": "Hot Pot Party",
+        "gameCode": "FCG00020"
+    },
+    {
+        "gameName": "Grand Blue",
+        "gameCode": "FCG00019"
+    },
+    {
+        "gameName": "Happy Duo Bao",
+        "gameCode": "FCG00018"
+    },
+    {
+        "gameName": "Golden Panther",
+        "gameCode": "FCG00017"
+    },
+    {
+        "gameName": "Golden Genie",
+        "gameCode": "FCG00016"
+    },
+    {
+        "gameName": "Night Market 2",
+        "gameCode": "FCG00028"
+    },
+    {
+        "gameName": "Glory of Rome",
+        "gameCode": "FCG00014"
+    },
+    {
+        "gameName": "Fortune Money Boom",
+        "gameCode": "FCG00013"
+    },
+    {
+        "gameName": "Fortune Sheep",
+        "gameCode": "FCG00012"
+    },
+    {
+        "gameName": "Fortune Koi",
+        "gameCode": "FCG00011"
+    },
+    {
+        "gameName": "Fortune Goddess",
+        "gameCode": "FCG00010"
+    },
+    {
+        "gameName": "Fortune Egg",
+        "gameCode": "FCG00009"
+    },
+    {
+        "gameName": "Egypt Bonanza",
+        "gameCode": "FCG00008"
+    },
+    {
+        "gameName": "Chinese New Year MOREWAYS",
+        "gameCode": "FCG00007"
+    },
+    {
+        "gameName": "Chinese New Year 2",
+        "gameCode": "FCG00006"
+    },
+    {
+        "gameName": "Cowboys",
+        "gameCode": "FCG00005"
+    },
+    {
+        "gameName": "Chinese New Year",
+        "gameCode": "FCG00004"
+    },
+    {
+        "gameName": "Treasure Raiders",
+        "gameCode": "FCG00040"
+    },
+    {
+        "gameName": "777 Super Strike",
+        "gameCode": "RED00005"
+    },
+    {
+        "gameName": "5 Families",
+        "gameCode": "RED00004"
+    },
+    {
+        "gameName": "1942: Sky Warrior",
+        "gameCode": "RED00003"
+    },
+    {
+        "gameName": "24 Hour Grand Prix",
+        "gameCode": "RED00002"
+    },
+    {
+        "gameName": "10 001 Nights",
+        "gameCode": "RED00001"
+    },
+    {
+        "gameName": "War of the Universe",
+        "gameCode": "FCG00046"
+    },
+    {
+        "gameName": "Three Little Pigs",
+        "gameCode": "FCG00045"
+    },
+    {
+        "gameName": "Zeus",
+        "gameCode": "FCG00044"
+    },
+    {
+        "gameName": "Win Win Neko",
+        "gameCode": "FCG00043"
+    },
+    {
+        "gameName": "Da Le Men",
+        "gameCode": "FCG00042"
+    },
+    {
+        "gameName": "Treasure Cruise",
+        "gameCode": "FCG00041"
+    },
+    {
+        "gameName": "Chilihuahua",
+        "gameCode": "FCG00003"
+    },
+    {
+        "gameName": "Crazy Buffalo",
+        "gameCode": "FCG00039"
+    },
+    {
+        "gameName": "Super Elements",
+        "gameCode": "FCG00038"
+    },
+    {
+        "gameName": "Sugar Bang Bang 2",
+        "gameCode": "FCG00037"
+    },
+    {
+        "gameName": "Sugar Bang Bang",
+        "gameCode": "FCG00036"
+    },
+    {
+        "gameName": "Roma Gladiatrix",
+        "gameCode": "FCG00035"
+    },
+    {
+        "gameName": "Robin Hood",
+        "gameCode": "FCG00034"
+    },
+    {
+        "gameName": "Rich Man",
+        "gameCode": "FCG00033"
+    },
+    {
+        "gameName": "Queen of Inca",
+        "gameCode": "FCG00032"
+    },
+    {
+        "gameName": "Pong Pong Hu",
+        "gameCode": "FCG00031"
+    },
+    {
+        "gameName": "Poker Win",
+        "gameCode": "FCG00030"
+    },
+    {
+        "gameName": "Panda Dragon Boat",
+        "gameCode": "FCG00029"
+    },
+    {
+        "gameName": "Bad Baboons Deluxe",
+        "gameCode": "BTV00004"
+    },
+    {
+        "gameName": "Gold Adventure",
+        "gameCode": "BTV00016"
+    },
+    {
+        "gameName": "Forest Frenzy",
+        "gameCode": "BTV00015"
+    },
+    {
+        "gameName": "Football Grid",
+        "gameCode": "BTV00014"
+    },
+    {
+        "gameName": "Flash Roulette",
+        "gameCode": "BTV00013"
+    },
+    {
+        "gameName": "Dragon's Fate",
+        "gameCode": "BTV00012"
+    },
+    {
+        "gameName": "Dice Duel",
+        "gameCode": "BTV00011"
+    },
+    {
+        "gameName": "Crypt of Giza Deluxe",
+        "gameCode": "BTV00010"
+    },
+    {
+        "gameName": "Crypt Of Giza Secrets Unveiled",
+        "gameCode": "BTV00008"
+    },
+    {
+        "gameName": "Candy Coins",
+        "gameCode": "BTV00007"
+    },
+    {
+        "gameName": "BetGames Lobby",
+        "gameCode": "BTV00006"
+    },
+    {
+        "gameName": "Bet on Poker",
+        "gameCode": "BTV00005"
+    },
+    {
+        "gameName": "Instant Lucky 7",
+        "gameCode": "BTV00017"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "BTV00003"
+    },
+    {
+        "gameName": "Bad Baboons",
+        "gameCode": "BTV00002"
+    },
+    {
+        "gameName": "6+ Poker",
+        "gameCode": "BTV00001"
+    },
+    {
+        "gameName": "Dragon Hatch",
+        "gameCode": "PGS00100"
+    },
+    {
+        "gameName": "Dragon Hatch 2",
+        "gameCode": "PGS00099"
+    },
+    {
+        "gameName": "Pinata Wins",
+        "gameCode": "PGS00098"
+    },
+    {
+        "gameName": "Raider Jane's Crypt of Fortune",
+        "gameCode": "PGS00097"
+    },
+    {
+        "gameName": "Prosperity Lion",
+        "gameCode": "PGS00096"
+    },
+    {
+        "gameName": "Prosperity Fortune Tree",
+        "gameCode": "PGS00095"
+    },
+    {
+        "gameName": "Queen of Bounty",
+        "gameCode": "PGS00094"
+    },
+    {
+        "gameName": "Mystical Spirits",
+        "gameCode": "PGS00093"
+    },
+    {
+        "gameName": "Wheel of Fortune",
+        "gameCode": "BTV00030"
+    },
+    {
+        "gameName": "Boxing Riches",
+        "gameCode": "FCG00002"
+    },
+    {
+        "gameName": "Animal Racing",
+        "gameCode": "FCG00001"
+    },
+    {
+        "gameName": "Golden Glyph 3",
+        "gameCode": "QS000017"
+    },
+    {
+        "gameName": "Eastern Emeralds Megaways",
+        "gameCode": "QS000018"
+    },
+    {
+        "gameName": "Dog Town Deal",
+        "gameCode": "QS000019"
+    },
+    {
+        "gameName": "Eastern Emeralds",
+        "gameCode": "QS000020"
+    },
+    {
+        "gameName": "Hammer of Vulcan",
+        "gameCode": "QS000021"
+    },
+    {
+        "gameName": "High street Heist",
+        "gameCode": "QS000022"
+    },
+    {
+        "gameName": "Epic Fish Adventure",
+        "gameCode": "QS000023"
+    },
+    {
+        "gameName": "Citrus Splash",
+        "gameCode": "BTV00032"
+    },
+    {
+        "gameName": "Classic Roulette",
+        "gameCode": "BTV00031"
+    },
+    {
+        "gameName": "10001 Nights Megaways",
+        "gameCode": "RED00006"
+    },
+    {
+        "gameName": "War of Bets",
+        "gameCode": "BTV00029"
+    },
+    {
+        "gameName": "Skyward",
+        "gameCode": "BTV00027"
+    },
+    {
+        "gameName": "Penguin Rush",
+        "gameCode": "BTV00026"
+    },
+    {
+        "gameName": "Lucky Loki",
+        "gameCode": "BTV00025"
+    },
+    {
+        "gameName": "Lucky Kicks",
+        "gameCode": "BTV00024"
+    },
+    {
+        "gameName": "Lucky 7",
+        "gameCode": "BTV00023"
+    },
+    {
+        "gameName": "Lucky 6",
+        "gameCode": "BTV00022"
+    },
+    {
+        "gameName": "Lucky 5",
+        "gameCode": "BTV00021"
+    },
+    {
+        "gameName": "Lotus Wealth Wonders",
+        "gameCode": "BTV00020"
+    },
+    {
+        "gameName": "Live Roulette",
+        "gameCode": "BTV00019"
+    },
+    {
+        "gameName": "Instant Roulette",
+        "gameCode": "BTV00018"
+    },
+    {
+        "gameName": "Alexander The Great World Conqueror",
+        "gameCode": "RED00066"
+    },
+    {
+        "gameName": "Dr. Francashstein MULTIHOPS",
+        "gameCode": "RED00077"
+    },
+    {
+        "gameName": "Don’t Hit PLZ!",
+        "gameCode": "RED00076"
+    },
+    {
+        "gameName": "Divine Ways",
+        "gameCode": "RED00075"
+    },
+    {
+        "gameName": "Dice Dice Dice",
+        "gameCode": "RED00074"
+    },
+    {
+        "gameName": "Diamonds Up",
+        "gameCode": "RED00073"
+    },
+    {
+        "gameName": "Diamond Doggies",
+        "gameCode": "RED00072"
+    },
+    {
+        "gameName": "Diamond Royale",
+        "gameCode": "RED00071"
+    },
+    {
+        "gameName": "Diamond Blitz 2",
+        "gameCode": "RED00070"
+    },
+    {
+        "gameName": "Diamond Blitz",
+        "gameCode": "RED00069"
+    },
+    {
+        "gameName": "Devil's Number",
+        "gameCode": "RED00068"
+    },
+    {
+        "gameName": "Desert Legends Spins",
+        "gameCode": "RED00067"
+    },
+    {
+        "gameName": "Doggy Riches Megaways™",
+        "gameCode": "RED00078"
+    },
+    {
+        "gameName": "Cyber Attack",
+        "gameCode": "RED00065"
+    },
+    {
+        "gameName": "Crystal Mirror",
+        "gameCode": "RED00064"
+    },
+    {
+        "gameName": "Cotton Gang Affair",
+        "gameCode": "RED00063"
+    },
+    {
+        "gameName": "Cobra Queen",
+        "gameCode": "RED00062"
+    },
+    {
+        "gameName": "Crazy Genie",
+        "gameCode": "RED00061"
+    },
+    {
+        "gameName": "Clover Craze",
+        "gameCode": "RED00060"
+    },
+    {
+        "gameName": "Classic Blackjack",
+        "gameCode": "RED00059"
+    },
+    {
+        "gameName": "Agent Royale",
+        "gameCode": "RED00058"
+    },
+    {
+        "gameName": "Cirque dе la Fortune",
+        "gameCode": "RED00057"
+    },
+    {
+        "gameName": "Cinderella's Ball",
+        "gameCode": "RED00056"
+    },
+    {
+        "gameName": "Christmas Morning",
+        "gameCode": "RED00055"
+    },
+    {
+        "gameName": "Dynamite Riches",
+        "gameCode": "RED00091"
+    },
+    {
+        "gameName": "3-Hand Casino Hold'em",
+        "gameCode": "PNG00002"
+    },
+    {
+        "gameName": "24k Dragon",
+        "gameCode": "PNG00001"
+    },
+    {
+        "gameName": "Clash of the Beasts",
+        "gameCode": "RED00100"
+    },
+    {
+        "gameName": "Dear Santa",
+        "gameCode": "RED00099"
+    },
+    {
+        "gameName": "Mega Fishing",
+        "gameCode": "JIL00087"
+    },
+    {
+        "gameName": "Dynamite Riches Megaways",
+        "gameCode": "RED00097"
+    },
+    {
+        "gameName": "Dragon’s Mirror",
+        "gameCode": "RED00096"
+    },
+    {
+        "gameName": "Egypt Clusterbuster",
+        "gameCode": "RED00095"
+    },
+    {
+        "gameName": "Elven Magic",
+        "gameCode": "RED00094"
+    },
+    {
+        "gameName": "Dream Destiny",
+        "gameCode": "RED00093"
+    },
+    {
+        "gameName": "Dragons’ Lock",
+        "gameCode": "RED00092"
+    },
+    {
+        "gameName": "Christmas MULTIHOPS",
+        "gameCode": "RED00054"
+    },
+    {
+        "gameName": "Egypt Megaways",
+        "gameCode": "RED00090"
+    },
+    {
+        "gameName": "Dragons Clusterbuster",
+        "gameCode": "RED00089"
+    },
+    {
+        "gameName": "Dragon's Luck Megaways",
+        "gameCode": "RED00088"
+    },
+    {
+        "gameName": "Dragon's Luck Power Reels",
+        "gameCode": "RED00087"
+    },
+    {
+        "gameName": "Dragon's Luck Deluxe",
+        "gameCode": "RED00086"
+    },
+    {
+        "gameName": "Dragon's Luck",
+        "gameCode": "RED00085"
+    },
+    {
+        "gameName": "Dragon's Fire Megaways",
+        "gameCode": "RED00084"
+    },
+    {
+        "gameName": "Dragon's Fire INFINIREELS",
+        "gameCode": "RED00083"
+    },
+    {
+        "gameName": "Dragon's Fire",
+        "gameCode": "RED00082"
+    },
+    {
+        "gameName": "Dragon Pearl",
+        "gameCode": "RED00081"
+    },
+    {
+        "gameName": "Dragon King: Legend of the Seas",
+        "gameCode": "RED00080"
+    },
+    {
+        "gameName": "Apache Way",
+        "gameCode": "RED00018"
+    },
+    {
+        "gameName": "Aurum Codex",
+        "gameCode": "RED00029"
+    },
+    {
+        "gameName": "Bass Boss",
+        "gameCode": "RED00028"
+    },
+    {
+        "gameName": "Baccarat Punto Banco",
+        "gameCode": "RED00027"
+    },
+    {
+        "gameName": "Aztec Spins",
+        "gameCode": "RED00026"
+    },
+    {
+        "gameName": "Atlantis",
+        "gameCode": "RED00025"
+    },
+    {
+        "gameName": "Athens Megaways",
+        "gameCode": "RED00024"
+    },
+    {
+        "gameName": "Astros",
+        "gameCode": "RED00023"
+    },
+    {
+        "gameName": "Astronaut",
+        "gameCode": "RED00022"
+    },
+    {
+        "gameName": "Asian Fortune",
+        "gameCode": "RED00021"
+    },
+    {
+        "gameName": "Ancients' Blessing",
+        "gameCode": "RED00020"
+    },
+    {
+        "gameName": "Arcade Bomb",
+        "gameCode": "RED00019"
+    },
+    {
+        "gameName": "Big Cat Rescue Megaways",
+        "gameCode": "RED00030"
+    },
+    {
+        "gameName": "Ancient Script",
+        "gameCode": "RED00017"
+    },
+    {
+        "gameName": "Ancient Disco",
+        "gameCode": "RED00016"
+    },
+    {
+        "gameName": "Amazon Island MEGAWAYS",
+        "gameCode": "RED00015"
+    },
+    {
+        "gameName": "Ali Baba's Luck POWER REELS",
+        "gameCode": "RED00014"
+    },
+    {
+        "gameName": "Ali Baba's Luck MEGAWAYS",
+        "gameCode": "RED00013"
+    },
+    {
+        "gameName": "Ali Baba's Luck",
+        "gameCode": "RED00012"
+    },
+    {
+        "gameName": "777 Strike",
+        "gameCode": "RED00011"
+    },
+    {
+        "gameName": "80's Spins",
+        "gameCode": "RED00010"
+    },
+    {
+        "gameName": "4 Squad",
+        "gameCode": "RED00009"
+    },
+    {
+        "gameName": "Age of Akkadia",
+        "gameCode": "RED00008"
+    },
+    {
+        "gameName": "7’s Luck",
+        "gameCode": "RED00007"
+    },
+    {
+        "gameName": "Buffalo Mania Megaways",
+        "gameCode": "RED00042"
+    },
+    {
+        "gameName": "Chinese Wilds",
+        "gameCode": "RED00053"
+    },
+    {
+        "gameName": "Chinese Treasures",
+        "gameCode": "RED00052"
+    },
+    {
+        "gameName": "Cash or Nothing",
+        "gameCode": "RED00051"
+    },
+    {
+        "gameName": "Casino Spin",
+        "gameCode": "RED00050"
+    },
+    {
+        "gameName": "Cash Volt",
+        "gameCode": "RED00049"
+    },
+    {
+        "gameName": "Cash Ultimate",
+        "gameCode": "RED00048"
+    },
+    {
+        "gameName": "Cash Explorer",
+        "gameCode": "RED00047"
+    },
+    {
+        "gameName": "Cannonball Cash",
+        "gameCode": "RED00046"
+    },
+    {
+        "gameName": "Cake & Ice Cream",
+        "gameCode": "RED00045"
+    },
+    {
+        "gameName": "Cai Shen 168",
+        "gameCode": "RED00044"
+    },
+    {
+        "gameName": "Bugsy’s Bar",
+        "gameCode": "RED00043"
+    },
+    {
+        "gameName": "Mystic Potion",
+        "gameCode": "PGS00092"
+    },
+    {
+        "gameName": "Bulls Run Wild",
+        "gameCode": "RED00041"
+    },
+    {
+        "gameName": "Buffalo Collector",
+        "gameCode": "RED00040"
+    },
+    {
+        "gameName": "Bombuster",
+        "gameCode": "RED00039"
+    },
+    {
+        "gameName": "Bounty Raid 2",
+        "gameCode": "RED00038"
+    },
+    {
+        "gameName": "Bounty Raid",
+        "gameCode": "RED00037"
+    },
+    {
+        "gameName": "Blue Diamond",
+        "gameCode": "RED00036"
+    },
+    {
+        "gameName": "Blood Suckers Megaways",
+        "gameCode": "RED00035"
+    },
+    {
+        "gameName": "Blobsters Clusterbuster",
+        "gameCode": "RED00034"
+    },
+    {
+        "gameName": "Blazing Clusters",
+        "gameCode": "RED00033"
+    },
+    {
+        "gameName": "Betty Boris and Boo",
+        "gameCode": "RED00032"
+    },
+    {
+        "gameName": "Bass Boss Megaways",
+        "gameCode": "RED00031"
+    },
+    {
+        "gameName": "Golden Shisa",
+        "gameCode": "OT000015"
+    },
+    {
+        "gameName": "Cash Galaxy",
+        "gameCode": "OT000004"
+    },
+    {
+        "gameName": "Fire Combo",
+        "gameCode": "OT000005"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "OT002002"
+    },
+    {
+        "gameName": "Bonus Track",
+        "gameCode": "OT000006"
+    },
+    {
+        "gameName": "Bubbles Bonanza",
+        "gameCode": "OT000007"
+    },
+    {
+        "gameName": "Genie's Secret",
+        "gameCode": "OT000008"
+    },
+    {
+        "gameName": "GanBaruto Battle",
+        "gameCode": "OT000009"
+    },
+    {
+        "gameName": "Fortune Miner",
+        "gameCode": "OT000010"
+    },
+    {
+        "gameName": "Gifts of Horus",
+        "gameCode": "OT000011"
+    },
+    {
+        "gameName": "Genie's Secret with Feature Buy",
+        "gameCode": "OT000012"
+    },
+    {
+        "gameName": "God Hand Feature Buy",
+        "gameCode": "OT000013"
+    },
+    {
+        "gameName": "God Hand",
+        "gameCode": "OT000014"
+    },
+    {
+        "gameName": "Baccarat Supreme",
+        "gameCode": "OT002004"
+    },
+    {
+        "gameName": "Grand Christmas Heist Buy Feature",
+        "gameCode": "OT000016"
+    },
+    {
+        "gameName": "Golden Stripe",
+        "gameCode": "OT000017"
+    },
+    {
+        "gameName": "Grand Heist Feature Buy",
+        "gameCode": "OT000018"
+    },
+    {
+        "gameName": "Grand Heist",
+        "gameCode": "OT000019"
+    },
+    {
+        "gameName": "Hold'em Poker",
+        "gameCode": "OT002014"
+    },
+    {
+        "gameName": "High Hand Hold'em Poker",
+        "gameCode": "OT002013"
+    },
+    {
+        "gameName": "Halloween Hunt",
+        "gameCode": "OT000020"
+    },
+    {
+        "gameName": "In Between Poker",
+        "gameCode": "OT002015"
+    },
+    {
+        "gameName": "Infinity Tower",
+        "gameCode": "OT000021"
+    },
+    {
+        "gameName": "Juicy 7",
+        "gameCode": "OT000022"
+    },
+    {
+        "gameName": "Jewelry Cats",
+        "gameCode": "OT000023"
+    },
+    {
+        "gameName": "Baccarat Triple Treat",
+        "gameCode": "OT002005"
+    },
+    {
+        "gameName": "Sticky Bandits Trail of Blood",
+        "gameCode": "QS000029"
+    },
+    {
+        "gameName": "Sticky Bandits Unchained",
+        "gameCode": "QS000030"
+    },
+    {
+        "gameName": "Temple of Paw",
+        "gameCode": "QS000031"
+    },
+    {
+        "gameName": "Sakura Fortune Epic Bloom",
+        "gameCode": "QS000032"
+    },
+    {
+        "gameName": "Warp Wreckers Power Glyph",
+        "gameCode": "QS000033"
+    },
+    {
+        "gameName": "Wild Harlequin",
+        "gameCode": "QS000034"
+    },
+    {
+        "gameName": "Wins of Fortune",
+        "gameCode": "QS000035"
+    },
+    {
+        "gameName": "Pearl o’ Plinko – Mermaid Cove",
+        "gameCode": "QS000036"
+    },
+    {
+        "gameName": "Raven Rising",
+        "gameCode": "QS000037"
+    },
+    {
+        "gameName": "SPORTS BOOK",
+        "gameCode": "MGP030119"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "OT002001"
+    },
+    {
+        "gameName": "Keno Rush",
+        "gameCode": "OT000024"
+    },
+    {
+        "gameName": "Angels and Demons",
+        "gameCode": "OT000001"
+    },
+    {
+        "gameName": "Baccarat No Commission",
+        "gameCode": "OT002003"
+    },
+    {
+        "gameName": "Beats EX",
+        "gameCode": "OT000002"
+    },
+    {
+        "gameName": "Blackjack Classic",
+        "gameCode": "OT002006"
+    },
+    {
+        "gameName": "Bombay Roulette",
+        "gameCode": "OT002011"
+    },
+    {
+        "gameName": "Blackjack Classic Perfect Pairs",
+        "gameCode": "OT002007"
+    },
+    {
+        "gameName": "Blackjack Supreme Single Hand Perfect Pairs",
+        "gameCode": "OT002009"
+    },
+    {
+        "gameName": "Bombay Blackjack",
+        "gameCode": "OT002010"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "OT002012"
+    },
+    {
+        "gameName": "Blackjack Supreme Multi Hand Perfect Pairs",
+        "gameCode": "OT002008"
+    },
+    {
+        "gameName": "Colosseum Clash",
+        "gameCode": "OT000003"
+    },
+    {
+        "gameName": "Watford FC Slot",
+        "gameCode": "OT000054"
+    },
+    {
+        "gameName": "Steam Vault",
+        "gameCode": "OT000045"
+    },
+    {
+        "gameName": "Sumo Showdown",
+        "gameCode": "OT000046"
+    },
+    {
+        "gameName": "Stone Gaze",
+        "gameCode": "OT000047"
+    },
+    {
+        "gameName": "Teen Patti",
+        "gameCode": "OT002019"
+    },
+    {
+        "gameName": "Teen Patti 20-20",
+        "gameCode": "OT002020"
+    },
+    {
+        "gameName": "Traveling Treasures Africa",
+        "gameCode": "OT000048"
+    },
+    {
+        "gameName": "Traveling Treasures Brazil",
+        "gameCode": "OT000049"
+    },
+    {
+        "gameName": "Tiki Terror",
+        "gameCode": "OT000050"
+    },
+    {
+        "gameName": "Tonatiuh's Legacy",
+        "gameCode": "OT000051"
+    },
+    {
+        "gameName": "Traveling Treasures India",
+        "gameCode": "OT000052"
+    },
+    {
+        "gameName": "Wacky Wildlife",
+        "gameCode": "OT000053"
+    },
+    {
+        "gameName": "Snack Blast",
+        "gameCode": "OT000044"
+    },
+    {
+        "gameName": "Sic Bo",
+        "gameCode": "EZU04073"
+    },
+    {
+        "gameName": "Wealthy Sharks",
+        "gameCode": "OT000055"
+    },
+    {
+        "gameName": "Wheel of Fortune",
+        "gameCode": "OT002021"
+    },
+    {
+        "gameName": "M Teen Patti 20-20",
+        "gameCode": "SAG04001"
+    },
+    {
+        "gameName": "Wild Coyote Megaways",
+        "gameCode": "OT000056"
+    },
+    {
+        "gameName": "Wild Voodoo",
+        "gameCode": "OT000057"
+    },
+    {
+        "gameName": "Wild Sorcery",
+        "gameCode": "OT000058"
+    },
+    {
+        "gameName": "Wild Waves Megaways",
+        "gameCode": "OT000059"
+    },
+    {
+        "gameName": "Wild Wild West 2120",
+        "gameCode": "OT000060"
+    },
+    {
+        "gameName": "Forgotten Pharaoh",
+        "gameCode": "OT000061"
+    },
+    {
+        "gameName": "Flexing Dragons",
+        "gameCode": "OT000062"
+    },
+    {
+        "gameName": "Pawsome Plinko",
+        "gameCode": "OT000035"
+    },
+    {
+        "gameName": "King of Mafia",
+        "gameCode": "OT000025"
+    },
+    {
+        "gameName": "Lady Fortuna",
+        "gameCode": "OT000026"
+    },
+    {
+        "gameName": "Legends Cup",
+        "gameCode": "OT000027"
+    },
+    {
+        "gameName": "Halloween Jack",
+        "gameCode": "NE030084"
+    },
+    {
+        "gameName": "Lucky Lion",
+        "gameCode": "OT000028"
+    },
+    {
+        "gameName": "Loot or Boot",
+        "gameCode": "OT000029"
+    },
+    {
+        "gameName": "Miko Festival",
+        "gameCode": "OT000030"
+    },
+    {
+        "gameName": "MVP Hoops",
+        "gameCode": "OT000031"
+    },
+    {
+        "gameName": "Queens of Glory",
+        "gameCode": "OT000032"
+    },
+    {
+        "gameName": "Pip's Quest",
+        "gameCode": "OT000033"
+    },
+    {
+        "gameName": "Monkey´s Treasure",
+        "gameCode": "OT000034"
+    },
+    {
+        "gameName": "Scepter of Anubis",
+        "gameCode": "QS000028"
+    },
+    {
+        "gameName": "Queens of Glory Legacy",
+        "gameCode": "OT000036"
+    },
+    {
+        "gameName": "Raiden Medal Burst",
+        "gameCode": "OT000037"
+    },
+    {
+        "gameName": "Miko Festival Feature Buy",
+        "gameCode": "OT000038"
+    },
+    {
+        "gameName": "MoMoMoolah",
+        "gameCode": "OT000039"
+    },
+    {
+        "gameName": "Reel Fruitz Frenzy",
+        "gameCode": "OT000040"
+    },
+    {
+        "gameName": "Roulette",
+        "gameCode": "OT002016"
+    },
+    {
+        "gameName": "Ryse of Rome",
+        "gameCode": "OT000041"
+    },
+    {
+        "gameName": "Russian Poker",
+        "gameCode": "OT002017"
+    },
+    {
+        "gameName": "Sea Treasure",
+        "gameCode": "OT000042"
+    },
+    {
+        "gameName": "Ryse of the Mighty Gods",
+        "gameCode": "OT000043"
+    },
+    {
+        "gameName": "Sic Bo",
+        "gameCode": "OT002018"
+    },
+    {
+        "gameName": "Hip Hop Panda",
+        "gameCode": "PGS00056"
+    },
+    {
+        "gameName": "Legendary Monkey King",
+        "gameCode": "PGS00067"
+    },
+    {
+        "gameName": "Legend of Hou Yi",
+        "gameCode": "PGS00066"
+    },
+    {
+        "gameName": "Knockout Riches",
+        "gameCode": "PGS00065"
+    },
+    {
+        "gameName": "Jurassic Kingdom",
+        "gameCode": "PGS00064"
+    },
+    {
+        "gameName": "Jungle Delight",
+        "gameCode": "PGS00063"
+    },
+    {
+        "gameName": "Journey to the Wealth",
+        "gameCode": "PGS00062"
+    },
+    {
+        "gameName": "Jewels of Prosperity",
+        "gameCode": "PGS00061"
+    },
+    {
+        "gameName": "Jack Frost's Winter",
+        "gameCode": "PGS00060"
+    },
+    {
+        "gameName": "Incan Wonders",
+        "gameCode": "PGS00059"
+    },
+    {
+        "gameName": "Hood vs Wolf",
+        "gameCode": "PGS00058"
+    },
+    {
+        "gameName": "Honey Trap of Diao Chan",
+        "gameCode": "PGS00057"
+    },
+    {
+        "gameName": "Legend of Perseus",
+        "gameCode": "PGS00068"
+    },
+    {
+        "gameName": "Heist  Stakes",
+        "gameCode": "PGS00055"
+    },
+    {
+        "gameName": "Hawaiian Tiki",
+        "gameCode": "PGS00054"
+    },
+    {
+        "gameName": "Guardians of Ice and Fire",
+        "gameCode": "PGS00053"
+    },
+    {
+        "gameName": "Graffiti Rush",
+        "gameCode": "PGS00052"
+    },
+    {
+        "gameName": "Gladiator's Glory",
+        "gameCode": "PGS00051"
+    },
+    {
+        "gameName": "Genie's 3 Wishes",
+        "gameCode": "PGS00050"
+    },
+    {
+        "gameName": "Gemstones Gold",
+        "gameCode": "PGS00049"
+    },
+    {
+        "gameName": "Gem Saviour Sword",
+        "gameCode": "PGS00048"
+    },
+    {
+        "gameName": "Gem Saviour Conquest",
+        "gameCode": "PGS00047"
+    },
+    {
+        "gameName": "Gem Saviour",
+        "gameCode": "PGS00046"
+    },
+    {
+        "gameName": "Geisha’s Revenge",
+        "gameCode": "PGS00045"
+    },
+    {
+        "gameName": "Mermaid Riches",
+        "gameCode": "PGS00080"
+    },
+    {
+        "gameName": "Plushie Frenzy",
+        "gameCode": "PGS00091"
+    },
+    {
+        "gameName": "Piggy Gold",
+        "gameCode": "PGS00090"
+    },
+    {
+        "gameName": "Oriental Prosperity",
+        "gameCode": "PGS00089"
+    },
+    {
+        "gameName": "Phoenix Rises",
+        "gameCode": "PGS00088"
+    },
+    {
+        "gameName": "Mask Carnival",
+        "gameCode": "PGS00087"
+    },
+    {
+        "gameName": "Opera Dynasty",
+        "gameCode": "PGS00086"
+    },
+    {
+        "gameName": "Ninja vs Samurai",
+        "gameCode": "PGS00085"
+    },
+    {
+        "gameName": "Ninja Racoon Frenzy",
+        "gameCode": "PGS00084"
+    },
+    {
+        "gameName": "Muay Thai Champion",
+        "gameCode": "PGS00083"
+    },
+    {
+        "gameName": "Mr. Treasure's Fortune",
+        "gameCode": "PGS00082"
+    },
+    {
+        "gameName": "Mr. Hallow-Win",
+        "gameCode": "PGS00081"
+    },
+    {
+        "gameName": "Garuda Gems",
+        "gameCode": "PGS00044"
+    },
+    {
+        "gameName": "Midas Fortune",
+        "gameCode": "PGS00079"
+    },
+    {
+        "gameName": "Medusa II",
+        "gameCode": "PGS00078"
+    },
+    {
+        "gameName": "Medusa",
+        "gameCode": "PGS00077"
+    },
+    {
+        "gameName": "Majestic Treasures",
+        "gameCode": "PGS00076"
+    },
+    {
+        "gameName": "Mahjong Ways 2",
+        "gameCode": "PGS00075"
+    },
+    {
+        "gameName": "Mahjong Ways",
+        "gameCode": "PGS00074"
+    },
+    {
+        "gameName": "Leprechaun Riches",
+        "gameCode": "PGS00073"
+    },
+    {
+        "gameName": "Lucky Piggy",
+        "gameCode": "PGS00072"
+    },
+    {
+        "gameName": "Mafia Mayhem",
+        "gameCode": "PGS00071"
+    },
+    {
+        "gameName": "Lucky Neko",
+        "gameCode": "PGS00070"
+    },
+    {
+        "gameName": "Lucky Clover Lady",
+        "gameCode": "PGS00069"
+    },
+    {
+        "gameName": "Baccarat Deluxe",
+        "gameCode": "PGS00007"
+    },
+    {
+        "gameName": "Destiny of Sun & Moon",
+        "gameCode": "PGS00019"
+    },
+    {
+        "gameName": "Diner Delights",
+        "gameCode": "PGS00017"
+    },
+    {
+        "gameName": "Dead Man's Riches",
+        "gameCode": "PGS00016"
+    },
+    {
+        "gameName": "Crypto Gold",
+        "gameCode": "PGS00015"
+    },
+    {
+        "gameName": "Circus Delight",
+        "gameCode": "PGS00014"
+    },
+    {
+        "gameName": "Cruise Royale",
+        "gameCode": "PGS00013"
+    },
+    {
+        "gameName": "Cocktail Nights",
+        "gameCode": "PGS00012"
+    },
+    {
+        "gameName": "Cash Mania",
+        "gameCode": "PGS00011"
+    },
+    {
+        "gameName": "Candy Burst",
+        "gameCode": "PGS00010"
+    },
+    {
+        "gameName": "Captain's Bounty",
+        "gameCode": "PGS00009"
+    },
+    {
+        "gameName": "Candy Bonanza",
+        "gameCode": "PGS00008"
+    },
+    {
+        "gameName": "Alchemy Gold",
+        "gameCode": "PGS00020"
+    },
+    {
+        "gameName": "Caishen Wins",
+        "gameCode": "PGS00006"
+    },
+    {
+        "gameName": "Butterfly Blossom",
+        "gameCode": "PGS00005"
+    },
+    {
+        "gameName": "Buffalo Win",
+        "gameCode": "PGS00004"
+    },
+    {
+        "gameName": "Bikini Paradise",
+        "gameCode": "PGS00003"
+    },
+    {
+        "gameName": "Asgardian Rising",
+        "gameCode": "PGS00002"
+    },
+    {
+        "gameName": "Battleground Royale",
+        "gameCode": "PGS00001"
+    },
+    {
+        "gameName": "Epic Fish: Net of Fortune",
+        "gameCode": "QS000024"
+    },
+    {
+        "gameName": "JIL-superace",
+        "gameCode": "JIL03012"
+    },
+    {
+        "gameName": "Reel Nightmare",
+        "gameCode": "QS000025"
+    },
+    {
+        "gameName": "Sakura Fortune 2",
+        "gameCode": "QS000026"
+    },
+    {
+        "gameName": "Sakura Fortune",
+        "gameCode": "QS000027"
+    },
+    {
+        "gameName": "Flirting Scholar",
+        "gameCode": "PGS00032"
+    },
+    {
+        "gameName": "Ganesha Gold",
+        "gameCode": "PGS00043"
+    },
+    {
+        "gameName": "Galactic Gems",
+        "gameCode": "PGS00042"
+    },
+    {
+        "gameName": "Ganesha Fortune",
+        "gameCode": "PGS00041"
+    },
+    {
+        "gameName": "Fortune Tiger",
+        "gameCode": "PGS00040"
+    },
+    {
+        "gameName": "Fruity Candy",
+        "gameCode": "PGS00039"
+    },
+    {
+        "gameName": "Fortune Snake",
+        "gameCode": "PGS00038"
+    },
+    {
+        "gameName": "Fortune Mouse",
+        "gameCode": "PGS00037"
+    },
+    {
+        "gameName": "Fortune Rabbit",
+        "gameCode": "PGS00036"
+    },
+    {
+        "gameName": "Fortune Ox",
+        "gameCode": "PGS00035"
+    },
+    {
+        "gameName": "Fortune Dragon",
+        "gameCode": "PGS00034"
+    },
+    {
+        "gameName": "Fortune Gods",
+        "gameCode": "PGS00033"
+    },
+    {
+        "gameName": "Elephant Treasure",
+        "gameCode": "RED00098"
+    },
+    {
+        "gameName": "Forge of Wealth",
+        "gameCode": "PGS00031"
+    },
+    {
+        "gameName": "Dragon Legend",
+        "gameCode": "PGS00030"
+    },
+    {
+        "gameName": "Emoji Riches",
+        "gameCode": "PGS00029"
+    },
+    {
+        "gameName": "Emperor's Favour",
+        "gameCode": "PGS00028"
+    },
+    {
+        "gameName": "Double Fortune",
+        "gameCode": "PGS00027"
+    },
+    {
+        "gameName": "Egypt's Book of Mystery",
+        "gameCode": "PGS00026"
+    },
+    {
+        "gameName": "Dreams of Macau",
+        "gameCode": "PGS00025"
+    },
+    {
+        "gameName": "Dragon Tiger Luck",
+        "gameCode": "PGS00024"
+    },
+    {
+        "gameName": "Bakery Bonanza",
+        "gameCode": "PGS00023"
+    },
+    {
+        "gameName": "Doomsday Rampage",
+        "gameCode": "PGS00022"
+    },
+    {
+        "gameName": "Bali Vacation",
+        "gameCode": "PGS00021"
+    },
+    {
+        "gameName": "Vitamin Joy Hot",
+        "gameCode": "BTL00048"
+    },
+    {
+        "gameName": "Baccarat D04",
+        "gameCode": "SAG00009"
+    },
+    {
+        "gameName": "Baccarat D05",
+        "gameCode": "SAG00008"
+    },
+    {
+        "gameName": "Baccarat D01",
+        "gameCode": "SAG00007"
+    },
+    {
+        "gameName": "Baccarat D02",
+        "gameCode": "SAG00006"
+    },
+    {
+        "gameName": "Baccarat C06",
+        "gameCode": "SAG00005"
+    },
+    {
+        "gameName": "Baccarat C04",
+        "gameCode": "SAG00004"
+    },
+    {
+        "gameName": "Baccarat C07",
+        "gameCode": "SAG00003"
+    },
+    {
+        "gameName": "Baccarat C02",
+        "gameCode": "SAG00002"
+    },
+    {
+        "gameName": "Baccarat C01",
+        "gameCode": "SAG00001"
+    },
+    {
+        "gameName": "Feasting Fox",
+        "gameCode": "QS000016"
+    },
+    {
+        "gameName": "Juicy Coins: Hold and Win",
+        "gameCode": "BTL00050"
+    },
+    {
+        "gameName": "Lightspeed",
+        "gameCode": "BTL00049"
+    },
+    {
+        "gameName": "Baccarat D07",
+        "gameCode": "SAG00010"
+    },
+    {
+        "gameName": "Vitamin Joy 25",
+        "gameCode": "BTL00047"
+    },
+    {
+        "gameName": "Vitamin Joy",
+        "gameCode": "BTL00046"
+    },
+    {
+        "gameName": "Virtual Top Card",
+        "gameCode": "BTL00045"
+    },
+    {
+        "gameName": "Virtual Dragon Tiger",
+        "gameCode": "BTL00044"
+    },
+    {
+        "gameName": "VIP Blackjack",
+        "gameCode": "BTL00043"
+    },
+    {
+        "gameName": "VIP NC Baccarat",
+        "gameCode": "BTL00042"
+    },
+    {
+        "gameName": "VIP Baccarat",
+        "gameCode": "BTL00041"
+    },
+    {
+        "gameName": "Tortuga Fortune",
+        "gameCode": "BTL00040"
+    },
+    {
+        "gameName": "The Kickoff",
+        "gameCode": "BTL00039"
+    },
+    {
+        "gameName": "Top Card",
+        "gameCode": "BTL00038"
+    },
+    {
+        "gameName": "Stellar Fruits 40",
+        "gameCode": "BTL00037"
+    },
+    {
+        "gameName": "M Blackjack",
+        "gameCode": "SAG00022"
+    },
+    {
+        "gameName": "M Sic Bo",
+        "gameCode": "SAG00033"
+    },
+    {
+        "gameName": "Speed Baccarat D08",
+        "gameCode": "SAG00032"
+    },
+    {
+        "gameName": "SA Gaming Lobby",
+        "gameCode": "SAG00031"
+    },
+    {
+        "gameName": "Speed Baccarat C08",
+        "gameCode": "SAG00030"
+    },
+    {
+        "gameName": "M Thai HiLo",
+        "gameCode": "SAG00029"
+    },
+    {
+        "gameName": "M Pok Deng",
+        "gameCode": "SAG00028"
+    },
+    {
+        "gameName": "M Fish Prawn Crab",
+        "gameCode": "SAG00027"
+    },
+    {
+        "gameName": "D Roulette",
+        "gameCode": "SAG00026"
+    },
+    {
+        "gameName": "M Roulette",
+        "gameCode": "SAG00025"
+    },
+    {
+        "gameName": "D Thai HiLo",
+        "gameCode": "SAG00024"
+    },
+    {
+        "gameName": "M Dragon Tiger",
+        "gameCode": "SAG00023"
+    },
+    {
+        "gameName": "Speed Blackjack",
+        "gameCode": "BTL00036"
+    },
+    {
+        "gameName": "M Andar Bahar",
+        "gameCode": "SAG00021"
+    },
+    {
+        "gameName": "D Sic Bo",
+        "gameCode": "SAG00020"
+    },
+    {
+        "gameName": "D Xoc Dia",
+        "gameCode": "SAG00019"
+    },
+    {
+        "gameName": "D Dragon Tiger",
+        "gameCode": "SAG00018"
+    },
+    {
+        "gameName": "D Pok Deng",
+        "gameCode": "SAG00017"
+    },
+    {
+        "gameName": "D Blackjack",
+        "gameCode": "SAG00016"
+    },
+    {
+        "gameName": "C Roulette",
+        "gameCode": "SAG00015"
+    },
+    {
+        "gameName": "Baccarat C03",
+        "gameCode": "SAG00014"
+    },
+    {
+        "gameName": "Baccarat D03",
+        "gameCode": "SAG00013"
+    },
+    {
+        "gameName": "Baccarat C05",
+        "gameCode": "SAG00012"
+    },
+    {
+        "gameName": "Baccarat D06",
+        "gameCode": "SAG00011"
+    },
+    {
+        "gameName": "Goal",
+        "gameCode": "SPB02002"
+    },
+    {
+        "gameName": "Fiesta Wilds",
+        "gameCode": "BTL00011"
+    },
+    {
+        "gameName": "Dao Riches",
+        "gameCode": "BTL00010"
+    },
+    {
+        "gameName": "Crash Live",
+        "gameCode": "BTL00009"
+    },
+    {
+        "gameName": "Cricket Roulette",
+        "gameCode": "BTL00007"
+    },
+    {
+        "gameName": "Blackjack 360 Midday",
+        "gameCode": "BTL00006"
+    },
+    {
+        "gameName": "Blackjack 360 Sunset",
+        "gameCode": "BTL00005"
+    },
+    {
+        "gameName": "Bet on Teen Patti",
+        "gameCode": "BTL00003"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "BTL00002"
+    },
+    {
+        "gameName": "Auto Roulette",
+        "gameCode": "BTL00001"
+    },
+    {
+        "gameName": "Aviator",
+        "gameCode": "SPB02001"
+    },
+    {
+        "gameName": "Keno",
+        "gameCode": "SPB00001"
+    },
+    {
+        "gameName": "Fruits Hold & Win",
+        "gameCode": "BTL00012"
+    },
+    {
+        "gameName": "Plinko",
+        "gameCode": "SPB02006"
+    },
+    {
+        "gameName": "Mini Roulette",
+        "gameCode": "SPB02008"
+    },
+    {
+        "gameName": "Hotline",
+        "gameCode": "SPB02004"
+    },
+    {
+        "gameName": "Mines",
+        "gameCode": "SPB02005"
+    },
+    {
+        "gameName": "Hilo",
+        "gameCode": "SPB02003"
+    },
+    {
+        "gameName": "Dice",
+        "gameCode": "SPB02007"
+    },
+    {
+        "gameName": "Loy Krathong",
+        "gameCode": "CQC00100"
+    },
+    {
+        "gameName": "Detective Dee",
+        "gameCode": "CQC00099"
+    },
+    {
+        "gameName": "Mr. Bean",
+        "gameCode": "CQC00098"
+    },
+    {
+        "gameName": "Money Tree",
+        "gameCode": "CQC00097"
+    },
+    {
+        "gameName": "Monkey Office Legend",
+        "gameCode": "CQC00096"
+    },
+    {
+        "gameName": "Live French Roulette",
+        "gameCode": "BTL00024"
+    },
+    {
+        "gameName": "Take Deal or Risk Blackjack",
+        "gameCode": "BTL00035"
+    },
+    {
+        "gameName": "Stellar Fruits 20",
+        "gameCode": "BTL00034"
+    },
+    {
+        "gameName": "Solar Sands",
+        "gameCode": "BTL00033"
+    },
+    {
+        "gameName": "Sic Bo",
+        "gameCode": "BTL00032"
+    },
+    {
+        "gameName": "Royal Roulette",
+        "gameCode": "BTL00031"
+    },
+    {
+        "gameName": "Roulette Lite",
+        "gameCode": "BTL00030"
+    },
+    {
+        "gameName": "Oasis VIP Blackjack",
+        "gameCode": "BTL00029"
+    },
+    {
+        "gameName": "Oasis Blackjack",
+        "gameCode": "BTL00028"
+    },
+    {
+        "gameName": "No Commission Live Baccarat 1",
+        "gameCode": "BTL00027"
+    },
+    {
+        "gameName": "Oasis Blackjack 2",
+        "gameCode": "BTL00026"
+    },
+    {
+        "gameName": "Lucky Hong Bao",
+        "gameCode": "BTL00025"
+    },
+    {
+        "gameName": "3 Charge Buffalo",
+        "gameCode": "JIL03002"
+    },
+    {
+        "gameName": "Live Baccarat Table 2 NC",
+        "gameCode": "BTL00023"
+    },
+    {
+        "gameName": "Live Baccarat Table 2",
+        "gameCode": "BTL00022"
+    },
+    {
+        "gameName": "Live Baccarat 1",
+        "gameCode": "BTL00021"
+    },
+    {
+        "gameName": "Easter Bunny Hunt",
+        "gameCode": "BTL00020"
+    },
+    {
+        "gameName": "ICONIC21 Lobby",
+        "gameCode": "BTL00019"
+    },
+    {
+        "gameName": "Gravity Roulette",
+        "gameCode": "BTL00018"
+    },
+    {
+        "gameName": "Gravity Auto Roulette",
+        "gameCode": "BTL00017"
+    },
+    {
+        "gameName": "Gravity Blackjack",
+        "gameCode": "BTL00016"
+    },
+    {
+        "gameName": "Gravity Sic Bo",
+        "gameCode": "BTL00015"
+    },
+    {
+        "gameName": "Grand Bonus Baccarat",
+        "gameCode": "BTL00014"
+    },
+    {
+        "gameName": "Grand Bonus Blackjack",
+        "gameCode": "BTL00013"
+    },
+    {
+        "gameName": "Fortune Roulette",
+        "gameCode": "JIL00053"
+    },
+    {
+        "gameName": "Golden Queen",
+        "gameCode": "JIL00064"
+    },
+    {
+        "gameName": "Golden Joker",
+        "gameCode": "JIL00063"
+    },
+    {
+        "gameName": "Golden Empire",
+        "gameCode": "JIL00062"
+    },
+    {
+        "gameName": "God Of Martial",
+        "gameCode": "JIL00061"
+    },
+    {
+        "gameName": "Golden Bank",
+        "gameCode": "JIL00060"
+    },
+    {
+        "gameName": "Gold Rush",
+        "gameCode": "JIL00059"
+    },
+    {
+        "gameName": "Go Rush",
+        "gameCode": "JIL00058"
+    },
+    {
+        "gameName": "Gem Party",
+        "gameCode": "JIL00057"
+    },
+    {
+        "gameName": "Go Goal BIngo",
+        "gameCode": "JIL00056"
+    },
+    {
+        "gameName": "Fortune Tree",
+        "gameCode": "JIL00055"
+    },
+    {
+        "gameName": "Fortune Monkey",
+        "gameCode": "JIL00054"
+    },
+    {
+        "gameName": "Happy Fishing",
+        "gameCode": "JIL00065"
+    },
+    {
+        "gameName": "Fortune Gems 3",
+        "gameCode": "JIL00052"
+    },
+    {
+        "gameName": "Fortune Gems 2",
+        "gameCode": "JIL00051"
+    },
+    {
+        "gameName": "Fortune Gems",
+        "gameCode": "JIL00050"
+    },
+    {
+        "gameName": "Fortune Bingo",
+        "gameCode": "JIL00049"
+    },
+    {
+        "gameName": "Fengshen",
+        "gameCode": "JIL00048"
+    },
+    {
+        "gameName": "Fa Fa Fa",
+        "gameCode": "JIL00047"
+    },
+    {
+        "gameName": "Fish Prawn Crab",
+        "gameCode": "JIL00046"
+    },
+    {
+        "gameName": "European Roulette",
+        "gameCode": "JIL00045"
+    },
+    {
+        "gameName": "Egypt's Glow",
+        "gameCode": "JIL00044"
+    },
+    {
+        "gameName": "Dragon Treasure",
+        "gameCode": "JIL00043"
+    },
+    {
+        "gameName": "Dragon Fortune",
+        "gameCode": "JIL00042"
+    },
+    {
+        "gameName": "Legacy of Egypt",
+        "gameCode": "JIL00075"
+    },
+    {
+        "gameName": "Medusa",
+        "gameCode": "JIL00085"
+    },
+    {
+        "gameName": "Master Tiger",
+        "gameCode": "JIL00084"
+    },
+    {
+        "gameName": "Magic Lamp Bingo",
+        "gameCode": "JIL00083"
+    },
+    {
+        "gameName": "Mayan Empire",
+        "gameCode": "JIL00082"
+    },
+    {
+        "gameName": "Magic Lamp",
+        "gameCode": "JIL00081"
+    },
+    {
+        "gameName": "Ludo Quick",
+        "gameCode": "JIL00080"
+    },
+    {
+        "gameName": "Lucky Coming",
+        "gameCode": "JIL03011"
+    },
+    {
+        "gameName": "Lucky Bingo",
+        "gameCode": "JIL00079"
+    },
+    {
+        "gameName": "Lucky Ball",
+        "gameCode": "JIL00078"
+    },
+    {
+        "gameName": "Limbo",
+        "gameCode": "JIL00077"
+    },
+    {
+        "gameName": "Keno Super Chance",
+        "gameCode": "JIL00076"
+    },
+    {
+        "gameName": "Dragon & Tiger",
+        "gameCode": "JIL00041"
+    },
+    {
+        "gameName": "King Arthur",
+        "gameCode": "JIL03010"
+    },
+    {
+        "gameName": "Jungle King",
+        "gameCode": "JIL03009"
+    },
+    {
+        "gameName": "Keno Bonus Number",
+        "gameCode": "JIL00074"
+    },
+    {
+        "gameName": "Journey West M",
+        "gameCode": "JIL00073"
+    },
+    {
+        "gameName": "Jhandi Munda",
+        "gameCode": "JIL00072"
+    },
+    {
+        "gameName": "JILI CAISHEN",
+        "gameCode": "JIL00071"
+    },
+    {
+        "gameName": "Hot Chilli",
+        "gameCode": "JIL00070"
+    },
+    {
+        "gameName": "Hyper Burst",
+        "gameCode": "JIL00069"
+    },
+    {
+        "gameName": "Hawaii Beauty",
+        "gameCode": "JIL00068"
+    },
+    {
+        "gameName": "Happy Taxi",
+        "gameCode": "JIL00067"
+    },
+    {
+        "gameName": "Golden Temple",
+        "gameCode": "JIL00066"
+    },
+    {
+        "gameName": "Bao boon chin",
+        "gameCode": "JIL00006"
+    },
+    {
+        "gameName": "Callbreak",
+        "gameCode": "JIL00016"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "JIL00015"
+    },
+    {
+        "gameName": "Aztec Priestess",
+        "gameCode": "JIL03008"
+    },
+    {
+        "gameName": "Boom Legend",
+        "gameCode": "JIL00014"
+    },
+    {
+        "gameName": "Book of Gold",
+        "gameCode": "JIL00013"
+    },
+    {
+        "gameName": "Bombing Fishing",
+        "gameCode": "JIL00012"
+    },
+    {
+        "gameName": "Bonus Hunter",
+        "gameCode": "JIL00011"
+    },
+    {
+        "gameName": "Blackjack Lucky Ladies",
+        "gameCode": "JIL00010"
+    },
+    {
+        "gameName": "Bingo Adventure",
+        "gameCode": "JIL00009"
+    },
+    {
+        "gameName": "Bone Fortune",
+        "gameCode": "JIL00008"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "JIL00007"
+    },
+    {
+        "gameName": "Calaca Bingo",
+        "gameCode": "JIL00017"
+    },
+    {
+        "gameName": "Bingo Carnaval",
+        "gameCode": "JIL00005"
+    },
+    {
+        "gameName": "Agent Ace",
+        "gameCode": "JIL03001"
+    },
+    {
+        "gameName": "Bangla Beauty",
+        "gameCode": "JIL00004"
+    },
+    {
+        "gameName": "Arena Fighter",
+        "gameCode": "JIL03007"
+    },
+    {
+        "gameName": "3 Pot Dragons",
+        "gameCode": "JIL03005"
+    },
+    {
+        "gameName": "AK47",
+        "gameCode": "JIL00003"
+    },
+    {
+        "gameName": "3 Coin Treasures",
+        "gameCode": "JIL03003"
+    },
+    {
+        "gameName": "Ali Baba",
+        "gameCode": "JIL03006"
+    },
+    {
+        "gameName": "7up7down",
+        "gameCode": "JIL00002"
+    },
+    {
+        "gameName": "All-star Fishing",
+        "gameCode": "JIL00001"
+    },
+    {
+        "gameName": "3 Lucky Piggy",
+        "gameCode": "JIL03004"
+    },
+    {
+        "gameName": "Crazy FaFaFa",
+        "gameCode": "JIL00029"
+    },
+    {
+        "gameName": "Dinosaur Tycoon",
+        "gameCode": "JIL00040"
+    },
+    {
+        "gameName": "Diamond Party",
+        "gameCode": "JIL00039"
+    },
+    {
+        "gameName": "Devil Fire 2",
+        "gameCode": "JIL00038"
+    },
+    {
+        "gameName": "Dabanggg",
+        "gameCode": "JIL00037"
+    },
+    {
+        "gameName": "Cricket Roulette",
+        "gameCode": "JIL00036"
+    },
+    {
+        "gameName": "Cricket War",
+        "gameCode": "JIL00035"
+    },
+    {
+        "gameName": "Cricket Sah 75",
+        "gameCode": "JIL00034"
+    },
+    {
+        "gameName": "Crazy777",
+        "gameCode": "JIL00033"
+    },
+    {
+        "gameName": "Cricket King 18",
+        "gameCode": "JIL00032"
+    },
+    {
+        "gameName": "Crazy Hunter",
+        "gameCode": "JIL00031"
+    },
+    {
+        "gameName": "Crash Touchdown",
+        "gameCode": "JIL00030"
+    },
+    {
+        "gameName": "5x Magic",
+        "gameCode": "PNG00004"
+    },
+    {
+        "gameName": "Crash Goal",
+        "gameCode": "JIL00028"
+    },
+    {
+        "gameName": "Crash Cricket",
+        "gameCode": "JIL00027"
+    },
+    {
+        "gameName": "Crash Bonus",
+        "gameCode": "JIL00026"
+    },
+    {
+        "gameName": "Color Prediction",
+        "gameCode": "JIL00025"
+    },
+    {
+        "gameName": "Chin Shi Huang",
+        "gameCode": "JIL00024"
+    },
+    {
+        "gameName": "Charge Buffalo Ascent",
+        "gameCode": "JIL00023"
+    },
+    {
+        "gameName": "Caribbean Stud Poker",
+        "gameCode": "JIL00022"
+    },
+    {
+        "gameName": "Charge Buffalo",
+        "gameCode": "JIL00021"
+    },
+    {
+        "gameName": "Candyland Bingo",
+        "gameCode": "JIL00020"
+    },
+    {
+        "gameName": "Callbreak Quick",
+        "gameCode": "JIL00019"
+    },
+    {
+        "gameName": "Bubble Beauty",
+        "gameCode": "JIL00018"
+    },
+    {
+        "gameName": "Coils of Cash",
+        "gameCode": "PNG00064"
+    },
+    {
+        "gameName": "Crystal Hall",
+        "gameCode": "PNG00076"
+    },
+    {
+        "gameName": "Crystal Sun",
+        "gameCode": "PNG00075"
+    },
+    {
+        "gameName": "Crazy Cows",
+        "gameCode": "PNG00074"
+    },
+    {
+        "gameName": "Craps",
+        "gameCode": "PNG00073"
+    },
+    {
+        "gameName": "Crabby's Gold",
+        "gameCode": "PNG00072"
+    },
+    {
+        "gameName": "Coywolf Cash",
+        "gameCode": "PNG00071"
+    },
+    {
+        "gameName": "Count Jokula",
+        "gameCode": "PNG00070"
+    },
+    {
+        "gameName": "Court of Hearts",
+        "gameCode": "PNG00069"
+    },
+    {
+        "gameName": "Cops'n'Robbers",
+        "gameCode": "PNG00068"
+    },
+    {
+        "gameName": "Contact",
+        "gameCode": "PNG00067"
+    },
+    {
+        "gameName": "Colt Lightning Firestorm",
+        "gameCode": "PNG00066"
+    },
+    {
+        "gameName": "Colt Lightning",
+        "gameCode": "PNG00065"
+    },
+    {
+        "gameName": "Dansband På Turné",
+        "gameCode": "PNG00077"
+    },
+    {
+        "gameName": "Cloud Quest",
+        "gameCode": "PNG00063"
+    },
+    {
+        "gameName": "Clash of Camelot",
+        "gameCode": "PNG00062"
+    },
+    {
+        "gameName": "Chronos Joker",
+        "gameCode": "PNG00061"
+    },
+    {
+        "gameName": "Chinese New Year",
+        "gameCode": "PNG00060"
+    },
+    {
+        "gameName": "Charlie Chance in Hell to Pay",
+        "gameCode": "PNG00059"
+    },
+    {
+        "gameName": "Charlie Chance and The Curse of Cleopatra",
+        "gameCode": "PNG00058"
+    },
+    {
+        "gameName": "Champions of Mithrune",
+        "gameCode": "PNG00057"
+    },
+    {
+        "gameName": "Chambers of Ancients",
+        "gameCode": "PNG00056"
+    },
+    {
+        "gameName": "Charlie Chance",
+        "gameCode": "PNG00055"
+    },
+    {
+        "gameName": "Cat Wilde and the Pyramids of Dead",
+        "gameCode": "PNG00054"
+    },
+    {
+        "gameName": "Cats and Cash",
+        "gameCode": "PNG00053"
+    },
+    {
+        "gameName": "Dr Toonz",
+        "gameCode": "PNG00089"
+    },
+    {
+        "gameName": "Enchanted Crystals",
+        "gameCode": "PNG00100"
+    },
+    {
+        "gameName": "Athena Ascending",
+        "gameCode": "PNG00099"
+    },
+    {
+        "gameName": "European Blackjack MH",
+        "gameCode": "PNG00098"
+    },
+    {
+        "gameName": "Energoonz",
+        "gameCode": "PNG00097"
+    },
+    {
+        "gameName": "Enchanted Meadow",
+        "gameCode": "PNG00096"
+    },
+    {
+        "gameName": "Easter Eggspedition",
+        "gameCode": "PNG00095"
+    },
+    {
+        "gameName": "Aztec Idols",
+        "gameCode": "PNG00094"
+    },
+    {
+        "gameName": "Easter Eggs",
+        "gameCode": "PNG00093"
+    },
+    {
+        "gameName": "Dragonfate's Favor",
+        "gameCode": "PNG00092"
+    },
+    {
+        "gameName": "Dragon Ship",
+        "gameCode": "PNG00091"
+    },
+    {
+        "gameName": "Dragon Maiden",
+        "gameCode": "PNG00090"
+    },
+    {
+        "gameName": "Cat Wilde and the Incan Quest",
+        "gameCode": "PNG00052"
+    },
+    {
+        "gameName": "Double Exposure Blackjack MH",
+        "gameCode": "PNG00088"
+    },
+    {
+        "gameName": "Divine Showdown",
+        "gameCode": "PNG00087"
+    },
+    {
+        "gameName": "Doom of Egypt",
+        "gameCode": "PNG00086"
+    },
+    {
+        "gameName": "Divine Divas",
+        "gameCode": "PNG00085"
+    },
+    {
+        "gameName": "Diamond Vortex",
+        "gameCode": "PNG00084"
+    },
+    {
+        "gameName": "Disco Diamonds",
+        "gameCode": "PNG00083"
+    },
+    {
+        "gameName": "Diamonds of the Realm",
+        "gameCode": "PNG00082"
+    },
+    {
+        "gameName": "Derby Wheel",
+        "gameCode": "PNG00081"
+    },
+    {
+        "gameName": "Deuces Wild",
+        "gameCode": "PNG00080"
+    },
+    {
+        "gameName": "Demon",
+        "gameCode": "PNG00079"
+    },
+    {
+        "gameName": "Dawn of Egypt",
+        "gameCode": "PNG00078"
+    },
+    {
+        "gameName": "Animal Madness",
+        "gameCode": "PNG00015"
+    },
+    {
+        "gameName": "Blackjack MH",
+        "gameCode": "PNG00027"
+    },
+    {
+        "gameName": "Black Mamba",
+        "gameCode": "PNG00026"
+    },
+    {
+        "gameName": "Big Win Cat",
+        "gameCode": "PNG00025"
+    },
+    {
+        "gameName": "Big Win 777",
+        "gameCode": "PNG00024"
+    },
+    {
+        "gameName": "Beasts of Fire Maximum",
+        "gameCode": "PNG00023"
+    },
+    {
+        "gameName": "Beasts Of Fire",
+        "gameCode": "PNG00022"
+    },
+    {
+        "gameName": "Battle Royal",
+        "gameCode": "PNG00021"
+    },
+    {
+        "gameName": "Banquet of Dead",
+        "gameCode": "PNG00020"
+    },
+    {
+        "gameName": "Baron: Lord of Saturday",
+        "gameCode": "PNG00019"
+    },
+    {
+        "gameName": "Banana Rock",
+        "gameCode": "PNG00018"
+    },
+    {
+        "gameName": "Baker's Treat",
+        "gameCode": "PNG00017"
+    },
+    {
+        "gameName": "Aztec Warrior Princess",
+        "gameCode": "PNG00016"
+    },
+    {
+        "gameName": "Blinged",
+        "gameCode": "PNG00028"
+    },
+    {
+        "gameName": "Annihilator",
+        "gameCode": "PNG00014"
+    },
+    {
+        "gameName": "Ace of Spades",
+        "gameCode": "PNG00013"
+    },
+    {
+        "gameName": "Ankh of Anubis",
+        "gameCode": "PNG00012"
+    },
+    {
+        "gameName": "Ankh of Anubis Awakening",
+        "gameCode": "PNG00011"
+    },
+    {
+        "gameName": "7 Sins",
+        "gameCode": "PNG00010"
+    },
+    {
+        "gameName": "Agent Destiny",
+        "gameCode": "PNG00009"
+    },
+    {
+        "gameName": "Agent of Hearts",
+        "gameCode": "PNG00008"
+    },
+    {
+        "gameName": "1001 Mystery Genie Fortunes",
+        "gameCode": "PNG00007"
+    },
+    {
+        "gameName": "15 Crystal Roses A Tale Of Love",
+        "gameCode": "PNG00006"
+    },
+    {
+        "gameName": "3 Clown Monty",
+        "gameCode": "PNG00005"
+    },
+    {
+        "gameName": "3 Clown Monty II",
+        "gameCode": "PNG00003"
+    },
+    {
+        "gameName": "Bull in a China Shop",
+        "gameCode": "PNG00040"
+    },
+    {
+        "gameName": "Cat Wilde in the Eclipse of the Sun God",
+        "gameCode": "PNG00051"
+    },
+    {
+        "gameName": "Cat Wilde and the Lost Chapter",
+        "gameCode": "PNG00050"
+    },
+    {
+        "gameName": "Cash of Command",
+        "gameCode": "PNG00049"
+    },
+    {
+        "gameName": "Cat Wilde and the Doom of Dead",
+        "gameCode": "PNG00048"
+    },
+    {
+        "gameName": "Cash-a-Cabana",
+        "gameCode": "PNG00047"
+    },
+    {
+        "gameName": "Cash Vandal",
+        "gameCode": "PNG00046"
+    },
+    {
+        "gameName": "Cash Pump",
+        "gameCode": "PNG00045"
+    },
+    {
+        "gameName": "Captain Xeno's Earth Adventure",
+        "gameCode": "PNG00044"
+    },
+    {
+        "gameName": "Captain Glum: Pirate Hunter",
+        "gameCode": "PNG00043"
+    },
+    {
+        "gameName": "Candy Island Princess",
+        "gameCode": "PNG00042"
+    },
+    {
+        "gameName": "Boat Bonanza Colossal Catch",
+        "gameCode": "PNG00041"
+    },
+    {
+        "gameName": "Mini Roulette",
+        "gameCode": "CQC00094"
+    },
+    {
+        "gameName": "Canine Carnage",
+        "gameCode": "PNG00039"
+    },
+    {
+        "gameName": "Boat Bonanza CrocoNile!",
+        "gameCode": "PNG00038"
+    },
+    {
+        "gameName": "Buildin' Bucks",
+        "gameCode": "PNG00037"
+    },
+    {
+        "gameName": "Book of Dead",
+        "gameCode": "PNG00036"
+    },
+    {
+        "gameName": "Bull in a Rodeo",
+        "gameCode": "PNG00035"
+    },
+    {
+        "gameName": "Bucking Rider",
+        "gameCode": "PNG00034"
+    },
+    {
+        "gameName": "Boat Bonanza Rider",
+        "gameCode": "PNG00033"
+    },
+    {
+        "gameName": "Boat Bonanza Down Under",
+        "gameCode": "PNG00032"
+    },
+    {
+        "gameName": "Boat Bonanza Christmas",
+        "gameCode": "PNG00031"
+    },
+    {
+        "gameName": "Blazin' Bullfrog",
+        "gameCode": "PNG00030"
+    },
+    {
+        "gameName": "Boat Bonanza",
+        "gameCode": "PNG00029"
+    },
+    {
+        "gameName": "Greek Gods",
+        "gameCode": "CQC00058"
+    },
+    {
+        "gameName": "Jump Higher mobile",
+        "gameCode": "CQC00070"
+    },
+    {
+        "gameName": "Lonely Planet",
+        "gameCode": "CQC00069"
+    },
+    {
+        "gameName": "Kronos",
+        "gameCode": "CQC00068"
+    },
+    {
+        "gameName": "Hercules",
+        "gameCode": "CQC00067"
+    },
+    {
+        "gameName": "Happy Rich Year",
+        "gameCode": "CQC00066"
+    },
+    {
+        "gameName": "Gu Gu Gu 3",
+        "gameCode": "CQC00065"
+    },
+    {
+        "gameName": "Gu Gu Gu M",
+        "gameCode": "CQC00064"
+    },
+    {
+        "gameName": "Gu Gu Gu 2 M",
+        "gameCode": "CQC00063"
+    },
+    {
+        "gameName": "Gu Gu Gu 2",
+        "gameCode": "CQC00062"
+    },
+    {
+        "gameName": "Gu Gu Gu",
+        "gameCode": "CQC00061"
+    },
+    {
+        "gameName": "Great Lion",
+        "gameCode": "CQC00060"
+    },
+    {
+        "gameName": "Gophers War",
+        "gameCode": "CQC00059"
+    },
+    {
+        "gameName": "Jump High 2",
+        "gameCode": "CQC00071"
+    },
+    {
+        "gameName": "Good Fortune M",
+        "gameCode": "CQC00057"
+    },
+    {
+        "gameName": "Good Fortune",
+        "gameCode": "CQC00056"
+    },
+    {
+        "gameName": "Golden Eggs",
+        "gameCode": "CQC00055"
+    },
+    {
+        "gameName": "God of War M",
+        "gameCode": "CQC00054"
+    },
+    {
+        "gameName": "God of War",
+        "gameCode": "CQC00053"
+    },
+    {
+        "gameName": "Funny Alpaca",
+        "gameCode": "CQC00052"
+    },
+    {
+        "gameName": "Gold Stealer",
+        "gameCode": "CQC00051"
+    },
+    {
+        "gameName": "God Of Chess",
+        "gameCode": "CQC00050"
+    },
+    {
+        "gameName": "Fruity Carnival",
+        "gameCode": "CQC00049"
+    },
+    {
+        "gameName": "Fruit King II",
+        "gameCode": "CQC00048"
+    },
+    {
+        "gameName": "Fortune Dragon",
+        "gameCode": "CQC00046"
+    },
+    {
+        "gameName": "Invincible Elephant",
+        "gameCode": "CQC00083"
+    },
+    {
+        "gameName": "Mirror Mirror",
+        "gameCode": "CQC00093"
+    },
+    {
+        "gameName": "Meow",
+        "gameCode": "CQC00092"
+    },
+    {
+        "gameName": "Mahjong Fruit",
+        "gameCode": "CQC00091"
+    },
+    {
+        "gameName": "Move n' Jump",
+        "gameCode": "CQC00095"
+    },
+    {
+        "gameName": "Lucky Boxes",
+        "gameCode": "CQC00090"
+    },
+    {
+        "gameName": "Magic World",
+        "gameCode": "CQC00089"
+    },
+    {
+        "gameName": "Lucky Tigers",
+        "gameCode": "CQC00088"
+    },
+    {
+        "gameName": "Lucky Bats M",
+        "gameCode": "CQC00087"
+    },
+    {
+        "gameName": "Lucky Bats",
+        "gameCode": "CQC00086"
+    },
+    {
+        "gameName": "Cricket Fever",
+        "gameCode": "CQC00085"
+    },
+    {
+        "gameName": "Jump Higher",
+        "gameCode": "CQC00084"
+    },
+    {
+        "gameName": "Fruit King",
+        "gameCode": "CQC00047"
+    },
+    {
+        "gameName": "Jewel Luxury",
+        "gameCode": "CQC00082"
+    },
+    {
+        "gameName": "Jungle Party",
+        "gameCode": "CQC00081"
+    },
+    {
+        "gameName": "Jumping mobile",
+        "gameCode": "CQC00080"
+    },
+    {
+        "gameName": "King Kong Shake",
+        "gameCode": "CQC00079"
+    },
+    {
+        "gameName": "K.O. Island",
+        "gameCode": "CQC00078"
+    },
+    {
+        "gameName": "Lord Ganesha",
+        "gameCode": "CQC00077"
+    },
+    {
+        "gameName": "Hephaestus",
+        "gameCode": "CQC00076"
+    },
+    {
+        "gameName": "King of Atlantis",
+        "gameCode": "CQC00075"
+    },
+    {
+        "gameName": "Hot Pinatas",
+        "gameCode": "CQC00074"
+    },
+    {
+        "gameName": "Jump High",
+        "gameCode": "CQC00073"
+    },
+    {
+        "gameName": "Hot Spin",
+        "gameCode": "CQC00072"
+    },
+    {
+        "gameName": "Burning Xi-You",
+        "gameCode": "CQC00012"
+    },
+    {
+        "gameName": "Fa Cai Fu Wa",
+        "gameCode": "CQC00023"
+    },
+    {
+        "gameName": "Fortune Totem",
+        "gameCode": "CQC00045"
+    },
+    {
+        "gameName": "Disco Night M",
+        "gameCode": "CQC00021"
+    },
+    {
+        "gameName": "Dollar Bomb",
+        "gameCode": "CQC00020"
+    },
+    {
+        "gameName": "Disco Night",
+        "gameCode": "CQC00019"
+    },
+    {
+        "gameName": "Baseball Fever",
+        "gameCode": "CQC00018"
+    },
+    {
+        "gameName": "Crazy NuoZha",
+        "gameCode": "CQC00017"
+    },
+    {
+        "gameName": "Chicky Parm Parm",
+        "gameCode": "CQC00016"
+    },
+    {
+        "gameName": "777",
+        "gameCode": "CQC00015"
+    },
+    {
+        "gameName": "888 Cai Shen",
+        "gameCode": "CQC00014"
+    },
+    {
+        "gameName": "888",
+        "gameCode": "CQC00013"
+    },
+    {
+        "gameName": "Detective Dee 2",
+        "gameCode": "CQC00022"
+    },
+    {
+        "gameName": "Big Wolf",
+        "gameCode": "CQC00011"
+    },
+    {
+        "gameName": "Acrobatics",
+        "gameCode": "CQC00010"
+    },
+    {
+        "gameName": "Chameleon",
+        "gameCode": "CQC00009"
+    },
+    {
+        "gameName": "Apsaras",
+        "gameCode": "CQC00008"
+    },
+    {
+        "gameName": "Aladdin's lamp",
+        "gameCode": "CQC00007"
+    },
+    {
+        "gameName": "6 Toros",
+        "gameCode": "CQC00006"
+    },
+    {
+        "gameName": "All Wilds",
+        "gameCode": "CQC00005"
+    },
+    {
+        "gameName": "Apollo",
+        "gameCode": "CQC00004"
+    },
+    {
+        "gameName": "All Star Team",
+        "gameCode": "CQC00003"
+    },
+    {
+        "gameName": "5 God Beasts",
+        "gameCode": "CQC00002"
+    },
+    {
+        "gameName": "5 Boxing",
+        "gameCode": "CQC00001"
+    },
+    {
+        "gameName": "Dragon Ball",
+        "gameCode": "CQC00024"
+    },
+    {
+        "gameName": "Football Boots",
+        "gameCode": "CQC00044"
+    },
+    {
+        "gameName": "Flower Fortunes",
+        "gameCode": "CQC00043"
+    },
+    {
+        "gameName": "Football Baby",
+        "gameCode": "CQC00042"
+    },
+    {
+        "gameName": "Fire Queen 2",
+        "gameCode": "CQC00041"
+    },
+    {
+        "gameName": "Flying Cai Shen",
+        "gameCode": "CQC00040"
+    },
+    {
+        "gameName": "Fly Out",
+        "gameCode": "CQC00039"
+    },
+    {
+        "gameName": "Floating Market",
+        "gameCode": "CQC00038"
+    },
+    {
+        "gameName": "Fire Queen",
+        "gameCode": "CQC00037"
+    },
+    {
+        "gameName": "Fire Chibi M",
+        "gameCode": "CQC00036"
+    },
+    {
+        "gameName": "Dragon's Treasure",
+        "gameCode": "CQC00035"
+    },
+    {
+        "gameName": "Fire Chibi",
+        "gameCode": "CQC00034"
+    },
+    {
+        "gameName": "Fire Chibi 2",
+        "gameCode": "CQC00033"
+    },
+    {
+        "gameName": "Fa Cai Shen M",
+        "gameCode": "CQC00032"
+    },
+    {
+        "gameName": "Ecstatic Circus",
+        "gameCode": "CQC00031"
+    },
+    {
+        "gameName": "Fire 777",
+        "gameCode": "CQC00030"
+    },
+    {
+        "gameName": "Fa Cai Shen 2",
+        "gameCode": "CQC00029"
+    },
+    {
+        "gameName": "Diamond Treasure",
+        "gameCode": "CQC00028"
+    },
+    {
+        "gameName": "Fa Cai Shen",
+        "gameCode": "CQC00027"
+    },
+    {
+        "gameName": "Dragon Heart",
+        "gameCode": "CQC00026"
+    },
+    {
+        "gameName": "Double Fly",
+        "gameCode": "CQC00025"
+    },
+    {
+        "gameName": "MONOPOLY Big Baller",
+        "gameCode": "EVO04049"
+    },
+    {
+        "gameName": "Poker",
+        "gameCode": "MZ010001"
+    },
+    {
+        "gameName": "Wingo",
+        "gameCode": "MZ020105"
+    },
+    {
+        "gameName": "JIL-superacedeluxe",
+        "gameCode": "JIL03013"
+    },
+    {
+        "gameName": "JIL-kingarthur",
+        "gameCode": "JIL03010"
+    },
+    {
+        "gameName": "Jhandi Munda",
+        "gameCode": "MZ020093"
+    },
+    {
+        "gameName": "JIL-boxingking",
+        "gameCode": "JIL03015"
+    },
+    {
+        "gameName": "Teenpatti",
+        "gameCode": "MZ010004"
+    },
+    {
+        "gameName": "Bet on Teen Patti",
+        "gameCode": "EZU04005"
+    },
+    {
+        "gameName": "Gorilla Kingdom",
+        "gameCode": "NE030081"
+    },
+    {
+        "gameName": "Crazy Win",
+        "gameCode": "MZ020080"
+    },
+    {
+        "gameName": "32 Cards",
+        "gameCode": "EZU04001"
+    },
+    {
+        "gameName": "MONOPOLY Live",
+        "gameCode": "EVO04050"
+    },
+    {
+        "gameName": "JIL-poseidon",
+        "gameCode": "JIL03016"
+    },
+    {
+        "gameName": "Namaste Roulette",
+        "gameCode": "EZU04048"
+    },
+    {
+        "gameName": "JIL-moneycoming",
+        "gameCode": "JIL03014"
+    },
+    {
+        "gameName": "Crazy Time",
+        "gameCode": "EVO04051"
+    },
+    {
+        "gameName": "Funky Time",
+        "gameCode": "EVO04053"
+    },
+    {
+        "gameName": "JIL-luckycoming",
+        "gameCode": "JIL03011"
+    },
+    {
+        "gameName": "Blackjack da Sorte",
+        "gameCode": "EZU04013"
+    },
+    {
+        "gameName": "Lucky 7",
+        "gameCode": "EZU04047"
+    },
+    {
+        "gameName": "Car Roulette",
+        "gameCode": "MZ020099"
+    },
+    {
+        "gameName": "Color Prediction",
+        "gameCode": "MZ020105"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "MZ020044"
+    },
+    {
+        "gameName": "Lightning Dice",
+        "gameCode": "EVO04052"
+    },
+    {
+        "gameName": "Turkish Blackjack 1",
+        "gameCode": "EZU04081"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "MZ020019"
+    },
+    {
+        "gameName": "European Roullete",
+        "gameCode": "MZ020017"
+    },
+    {
+        "gameName": "Unlimited Blackjack",
+        "gameCode": "EZU04087"
+    },
+    {
+        "gameName": "Ludo",
+        "gameCode": "MZ010067"
+    },
+    {
+        "gameName": "VIP Surrender Blackjack",
+        "gameCode": "EZU04091"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "EZU04032"
+    },
+    {
+        "gameName": "Crash",
+        "gameCode": "MZ020102"
+    },
+    {
+        "gameName": "Turkish Roulette",
+        "gameCode": "EZU04083"
+    },
+    {
+        "gameName": "Aloha! Cluster Pays",
+        "gameCode": "NE030003"
+    },
+    {
+        "gameName": "777x Galaxy Roulette",
+        "gameCode": "7ML00001"
+    },
+    {
+        "gameName": "500x Turkish Roulette",
+        "gameCode": "7ML00002"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "EZU04002"
+    },
+    {
+        "gameName": "Mines",
+        "gameCode": "MZ020104"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "7ML00003"
+    },
+    {
+        "gameName": "Turkish Roulette",
+        "gameCode": "7ML00004"
+    },
+    {
+        "gameName": "Jack Hammer 3",
+        "gameCode": "NE030092"
+    },
+    {
+        "gameName": "Skyline Roulette",
+        "gameCode": "EZU04074"
+    },
+    {
+        "gameName": "Galaxy Roulette",
+        "gameCode": "7ML00005"
+    },
+    {
+        "gameName": "Teen Patti Face Off",
+        "gameCode": "7ML00006"
+    },
+    {
+        "gameName": "Guns N' Roses",
+        "gameCode": "NE030083"
+    },
+    {
+        "gameName": "Jelly Belly Megaways",
+        "gameCode": "NE030097"
+    },
+    {
+        "gameName": "Spanish Unlimited Blackjack",
+        "gameCode": "EZU04075"
+    },
+    {
+        "gameName": "Dragon Tiger",
+        "gameCode": "EVO04015"
+    },
+    {
+        "gameName": "Bucharest Roulette",
+        "gameCode": "EVO04009"
+    },
+    {
+        "gameName": "Casino Hold'em",
+        "gameCode": "EVO04011"
+    },
+    {
+        "gameName": "Caribbean Stud Poker",
+        "gameCode": "EVO04010"
+    },
+    {
+        "gameName": "Casino Malta Dual Play Roule",
+        "gameCode": "EVO04012"
+    },
+    {
+        "gameName": "Craps",
+        "gameCode": "EVO04013"
+    },
+    {
+        "gameName": "Double Ball Roulette",
+        "gameCode": "EVO04014"
+    },
+    {
+        "gameName": "Dragonara Dual Play Roulette",
+        "gameCode": "EVO04016"
+    },
+    {
+        "gameName": "JIL-agentace",
+        "gameCode": "JIL03001"
+    },
+    {
+        "gameName": "Speed Roulette",
+        "gameCode": "EVO04037"
+    },
+    {
+        "gameName": "Super Andar Bahar",
+        "gameCode": "EVO04038"
+    },
+    {
+        "gameName": "Extreme Texas Hold’em",
+        "gameCode": "EVO04017"
+    },
+    {
+        "gameName": "Teen Patti",
+        "gameCode": "EVO04040"
+    },
+    {
+        "gameName": "Texas Hold'em Bonus Poker",
+        "gameCode": "EVO04041"
+    },
+    {
+        "gameName": "Triple Card Poker",
+        "gameCode": "EVO04043"
+    },
+    {
+        "gameName": "Türkçe Lightning Rulet",
+        "gameCode": "EVO04044"
+    },
+    {
+        "gameName": "Video Poker",
+        "gameCode": "EVO04046"
+    },
+    {
+        "gameName": "XXXtreme Lightning Baccarat",
+        "gameCode": "EVO04047"
+    },
+    {
+        "gameName": "XXXtreme Lightning Roulette",
+        "gameCode": "EVO04048"
+    },
+    {
+        "gameName": "Speed Super Sic Bo",
+        "gameCode": "EVO04039"
+    },
+    {
+        "gameName": "JIL-3chargebuffalo",
+        "gameCode": "JIL03002"
+    },
+    {
+        "gameName": "JIL-3cointreasures",
+        "gameCode": "JIL03003"
+    },
+    {
+        "gameName": "JIL-3luckypiggy",
+        "gameCode": "JIL03004"
+    },
+    {
+        "gameName": "JIL-3potdragons",
+        "gameCode": "JIL03005"
+    },
+    {
+        "gameName": "JIL-alibaba",
+        "gameCode": "JIL03006"
+    },
+    {
+        "gameName": "JIL-arenafighter",
+        "gameCode": "JIL03007"
+    },
+    {
+        "gameName": "JIL-aztecpriestess",
+        "gameCode": "JIL03008"
+    },
+    {
+        "gameName": "JIL-jungleking",
+        "gameCode": "JIL03009"
+    },
+    {
+        "gameName": "Andar Bahar",
+        "gameCode": "7ML00007"
+    },
+    {
+        "gameName": "Speed Baccarat",
+        "gameCode": "EVO04036"
+    },
+    {
+        "gameName": "Instant Super Sic Bo",
+        "gameCode": "EVO04028"
+    },
+    {
+        "gameName": "Instant Roulette",
+        "gameCode": "EVO04029"
+    },
+    {
+        "gameName": "Lightning Baccarat",
+        "gameCode": "EVO04030"
+    },
+    {
+        "gameName": "Lightning Sic Bo",
+        "gameCode": "EVO04031"
+    },
+    {
+        "gameName": "Peek Baccarat",
+        "gameCode": "EVO04032"
+    },
+    {
+        "gameName": "Power Blackjack",
+        "gameCode": "EVO04033"
+    },
+    {
+        "gameName": "Prosperity Tree Baccarat",
+        "gameCode": "EVO04034"
+    },
+    {
+        "gameName": "Infinite Blackjack",
+        "gameCode": "EVO04026"
+    },
+    {
+        "gameName": "Roulette",
+        "gameCode": "EVO04035"
+    },
+    {
+        "gameName": "Live Roulette",
+        "gameCode": "BTL04001"
+    },
+    {
+        "gameName": "101 Candies",
+        "gameCode": "NE030001"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "EZU04015"
+    },
+    {
+        "gameName": "Baccarat",
+        "gameCode": "EZU04015"
+    },
+    {
+        "gameName": "Rumba Blackjack 1",
+        "gameCode": "EZU04065"
+    },
+    {
+        "gameName": "Good Old 7's",
+        "gameCode": "NE030079"
+    },
+    {
+        "gameName": "Grand Spinn",
+        "gameCode": "NE030082"
+    },
+    {
+        "gameName": "Gonzo's Quest",
+        "gameCode": "NE030078"
+    },
+    {
+        "gameName": "Babylon Riches",
+        "gameCode": "NE030007"
+    },
+    {
+        "gameName": "Gonzo's Gold",
+        "gameCode": "NE030077"
+    },
+    {
+        "gameName": "Jimi Hendrix Online Slot",
+        "gameCode": "NE030098"
+    },
+    {
+        "gameName": "Jimi Hendrix Online Slot",
+        "gameCode": "NE030098"
+    },
+    {
+        "gameName": "Arcane: Reel Chaos",
+        "gameCode": "NE030004"
+    },
+    {
+        "gameName": "Aloha! Christmas",
+        "gameCode": "NE030002"
+    },
+    {
+        "gameName": "Irish Pot Luck",
+        "gameCode": "NE030089"
+    },
+    {
+        "gameName": "Oracle 360 Roulette",
+        "gameCode": "EZU04056"
+    },
+    {
+        "gameName": "Beach Invaders",
+        "gameCode": "NE030008"
+    },
+    {
+        "gameName": "Jack Hammer",
+        "gameCode": "NE030090"
+    },
+    {
+        "gameName": "One Day Teen Patti",
+        "gameCode": "EZU04055"
+    },
+    {
+        "gameName": "Blackjack Salon Privé",
+        "gameCode": "EZU04014"
+    },
+    {
+        "gameName": "Golden Wheels of Egypt",
+        "gameCode": "NE030076"
+    },
+    {
+        "gameName": "Jack and the Beanstalk Remastered",
+        "gameCode": "NE030094"
+    },
+    {
+        "gameName": "Unlimited Blackjack 1",
+        "gameCode": "EZU04086"
+    },
+    {
+        "gameName": "Happy Riches",
+        "gameCode": "NE030085"
+    },
+    {
+        "gameName": "No Commission Baccarat",
+        "gameCode": "EZU04049"
+    },
+    {
+        "gameName": "VIP Roulette",
+        "gameCode": "EZU04090"
+    },
+    {
+        "gameName": "Super 6 Baccarat",
+        "gameCode": "EZU04079"
+    },
+    {
+        "gameName": "Jackpot 6000",
+        "gameCode": "NE030096"
+    },
+    {
+        "gameName": "Blackjack",
+        "gameCode": "EZU04007"
+    },
+    {
+        "gameName": "Teen Patti 3 Card",
+        "gameCode": "EZU04080"
+    },
+    {
+        "gameName": "Turkish Blackjack 2",
+        "gameCode": "EZU04082"
+    }
+]

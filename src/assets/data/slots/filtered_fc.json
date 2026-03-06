@@ -1,0 +1,372 @@
+[
+  [
+    {
+      "nodeName": "GOLDEN PANTHER",
+      "gameName": "GOLDEN PANTHER",
+      "defaultLanguage": "GOLDEN PANTHER",
+      "gameCode": "FCG00017",
+      "showIcon": "/dataImages/slots/FC0002.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0002.png"
+    },
+    {
+      "nodeName": "THREE LITTLE PIGS",
+      "gameName": "THREE LITTLE PIGS",
+      "defaultLanguage": "THREE LITTLE PIGS",
+      "gameCode": "FCG00045",
+      "showIcon": "/dataImages/slots/FC0003.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0003.png"
+    },
+    {
+      "nodeName": "HOT POT PARTY",
+      "gameName": "HOT POT PARTY",
+      "defaultLanguage": "HOT POT PARTY",
+      "gameCode": "FCG00020",
+      "showIcon": "/dataImages/slots/FC0004.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0004.png"
+    },
+    {
+      "nodeName": "NIGHT MARKET",
+      "gameName": "NIGHT MARKET",
+      "defaultLanguage": "NIGHT MARKET",
+      "gameCode": "FCG00028",
+      "showIcon": "/dataImages/slots/FC0005.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0005.png"
+    },
+    {
+      "nodeName": "PONG PONG HU",
+      "gameName": "PONG PONG HU",
+      "defaultLanguage": "PONG PONG HU",
+      "gameCode": "FCG00031",
+      "showIcon": "/dataImages/slots/FC0006.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0006.png"
+    },
+    {
+      "nodeName": "PANDA DRAGON BOAT",
+      "gameName": "PANDA DRAGON BOAT",
+      "defaultLanguage": "PANDA DRAGON BOAT",
+      "gameCode": "FCG00029",
+      "showIcon": "/dataImages/slots/FC0007.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0007.png"
+    },
+    {
+      "nodeName": "CHINESE NEW YEAR",
+      "gameName": "CHINESE NEW YEAR",
+      "defaultLanguage": "CHINESE NEW YEAR",
+      "gameCode": "FCG00004",
+      "showIcon": "/dataImages/slots/FC0008.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0008.png"
+    },
+    {
+      "nodeName": "FORTUNE KOI",
+      "gameName": "FORTUNE KOI",
+      "defaultLanguage": "FORTUNE KOI",
+      "gameCode": "FCG00011",
+      "showIcon": "/dataImages/slots/FC0009.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0009.png"
+    },
+    {
+      "nodeName": "HAPPY DUO BAO",
+      "gameName": "HAPPY DUO BAO",
+      "defaultLanguage": "HAPPY DUO BAO",
+      "gameCode": "FCG00018",
+      "showIcon": "/dataImages/slots/FC0010.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0010.png"
+    },
+    {
+      "nodeName": "DA LE MEN",
+      "gameName": "DA LE MEN",
+      "defaultLanguage": "DA LE MEN",
+      "gameCode": "FCG00042",
+      "showIcon": "/dataImages/slots/FC0011.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0011.png"
+    },
+    {
+      "nodeName": "ANIMAL RACING",
+      "gameName": "ANIMAL RACING",
+      "defaultLanguage": "ANIMAL RACING",
+      "gameCode": "FCG00001",
+      "showIcon": "/dataImages/slots/FC0012.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0012.png"
+    },
+    {
+      "nodeName": "LUXURY GOLDEN PANTHER",
+      "gameName": "LUXURY GOLDEN PANTHER",
+      "defaultLanguage": "LUXURY GOLDEN PANTHER",
+      "gameCode": "FCG00024",
+      "showIcon": "/dataImages/slots/FC0013.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0013.png"
+    },
+    {
+      "nodeName": "MAGIC BEANS",
+      "gameName": "MAGIC BEANS",
+      "defaultLanguage": "MAGIC BEANS",
+      "gameCode": "FCG00025",
+      "showIcon": "/dataImages/slots/FC0014.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0014.png"
+    },
+    {
+      "nodeName": "COWBOYS",
+      "gameName": "COWBOYS",
+      "defaultLanguage": "COWBOYS",
+      "gameCode": "FCG00005",
+      "showIcon": "/dataImages/slots/FC0015.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0015.png"
+    },
+    {
+      "nodeName": "WAR OF THE UNIVERSE",
+      "gameName": "WAR OF THE UNIVERSE",
+      "defaultLanguage": "WAR OF THE UNIVERSE",
+      "gameCode": "FCG00046",
+      "showIcon": "/dataImages/slots/FC0016.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0016.png"
+    },
+    {
+      "nodeName": "TREASURE CRUISE",
+      "gameName": "TREASURE CRUISE",
+      "defaultLanguage": "TREASURE CRUISE",
+      "gameCode": "FCG00041",
+      "showIcon": "/dataImages/slots/FC0017.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0017.png"
+    },
+    {
+      "nodeName": "GOLD RUSH",
+      "gameName": "GOLD RUSH",
+      "defaultLanguage": "GOLD RUSH",
+      "gameCode": "FCG00015",
+      "showIcon": "/dataImages/slots/FC0018.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0018.png"
+    },
+    {
+      "nodeName": "RICH MAN",
+      "gameName": "RICH MAN",
+      "defaultLanguage": "RICH MAN",
+      "gameCode": "FCG00033",
+      "showIcon": "/dataImages/slots/FC0019.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0019.png"
+    },
+    {
+      "nodeName": "GLORY OF ROME",
+      "gameName": "GLORY OF ROME",
+      "defaultLanguage": "GLORY OF ROME",
+      "gameCode": "FCG00014",
+      "showIcon": "/dataImages/slots/FC0020.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0020.png"
+    },
+    {
+      "nodeName": "Robin Hood",
+      "gameName": "Robin Hood",
+      "defaultLanguage": "Robin Hood",
+      "gameCode": "FCG00034",
+      "showIcon": "/dataImages/slots/FC0021.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0021.png"
+    },
+    {
+      "nodeName": "Lucky Fortunes",
+      "gameName": "Lucky Fortunes",
+      "defaultLanguage": "Lucky Fortunes",
+      "gameCode": "FCG00022",
+      "showIcon": "/dataImages/slots/FC0022.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0022.png"
+    },
+    {
+      "nodeName": "CHINESE NEW YEAR 2",
+      "gameName": "CHINESE NEW YEAR 2",
+      "defaultLanguage": "CHINESE NEW YEAR 2",
+      "gameCode": "FCG00006",
+      "showIcon": "/dataImages/slots/FC0023.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0023.png"
+    },
+    {
+      "nodeName": "GRAND BLUE",
+      "gameName": "GRAND BLUE",
+      "defaultLanguage": "GRAND BLUE",
+      "gameCode": "FCG00019",
+      "showIcon": "/dataImages/slots/FC0024.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0024.png"
+    },
+    {
+      "nodeName": "TREASURE RAIDERS",
+      "gameName": "TREASURE RAIDERS",
+      "defaultLanguage": "TREASURE RAIDERS",
+      "gameCode": "FCG00040",
+      "showIcon": "/dataImages/slots/FC0025.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0025.png"
+    }
+  ],
+  [
+    {
+      "nodeName": "SUGAR BANG BANG",
+      "gameName": "SUGAR BANG BANG",
+      "defaultLanguage": "SUGAR BANG BANG",
+      "gameCode": "FCG00037",
+      "showIcon": "/dataImages/slots/FC0026.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0026.png"
+    },
+    {
+      "nodeName": "CRAZY BUFFALO",
+      "gameName": "CRAZY BUFFALO",
+      "defaultLanguage": "CRAZY BUFFALO",
+      "gameCode": "FCG00039",
+      "showIcon": "/dataImages/slots/FC0027.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0027.png"
+    },
+    {
+      "nodeName": "MERGE MAGIC",
+      "gameName": "MERGE MAGIC",
+      "defaultLanguage": "MERGE MAGIC",
+      "gameCode": "FCG00026",
+      "showIcon": "/dataImages/slots/FC0028.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0028.png"
+    },
+    {
+      "nodeName": "GOLDEN GENIE",
+      "gameName": "GOLDEN GENIE",
+      "defaultLanguage": "GOLDEN GENIE",
+      "gameCode": "FCG00016",
+      "showIcon": "/dataImages/slots/FC0029.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0029.png"
+    },
+    {
+      "nodeName": "ZEUS",
+      "gameName": "ZEUS",
+      "defaultLanguage": "ZEUS",
+      "gameCode": "FCG00044",
+      "showIcon": "/dataImages/slots/FC0030.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0030.png"
+    },
+    {
+      "nodeName": "WIN WIN NEKO",
+      "gameName": "WIN WIN NEKO",
+      "defaultLanguage": "WIN WIN NEKO",
+      "gameCode": "FCG00043",
+      "showIcon": "/dataImages/slots/FC0031.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0031.png"
+    },
+    {
+      "nodeName": "FORTUNE EGG",
+      "gameName": "FORTUNE EGG",
+      "defaultLanguage": "FORTUNE EGG",
+      "gameCode": "FCG00009",
+      "showIcon": "/dataImages/slots/FC0032.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0032.png"
+    },
+    {
+      "nodeName": "NIGHT MARKET 2",
+      "gameName": "NIGHT MARKET 2",
+      "defaultLanguage": "NIGHT MARKET 2",
+      "gameCode": "FCG00028",
+      "showIcon": "/dataImages/slots/FC0033.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0033.png"
+    },
+    {
+      "nodeName": "SUPER ELEMENTS",
+      "gameName": "SUPER ELEMENTS",
+      "defaultLanguage": "SUPER ELEMENTS",
+      "gameCode": "FCG00038",
+      "showIcon": "/dataImages/slots/FC0034.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0034.png"
+    },
+    {
+      "nodeName": "LEGEND OF INCA",
+      "gameName": "LEGEND OF INCA",
+      "defaultLanguage": "LEGEND OF INCA",
+      "gameCode": "FCG00021",
+      "showIcon": "/dataImages/slots/FC0035.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0035.png"
+    },
+    {
+      "nodeName": "EGYPT BONANZA",
+      "gameName": "EGYPT BONANZA",
+      "defaultLanguage": "EGYPT BONANZA",
+      "gameCode": "FCG00008",
+      "showIcon": "/dataImages/slots/FC0036.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0036.png"
+    },
+    {
+      "nodeName": "CHILIHUAHUA",
+      "gameName": "CHILIHUAHUA",
+      "defaultLanguage": "CHILIHUAHUA",
+      "gameCode": "FCG00003",
+      "showIcon": "/dataImages/slots/FC0037.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0037.png"
+    },
+    {
+      "nodeName": "FORTUNE SHEEP",
+      "gameName": "FORTUNE SHEEP",
+      "defaultLanguage": "FORTUNE SHEEP",
+      "gameCode": "FCG00012",
+      "showIcon": "/dataImages/slots/FC0038.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0038.png"
+    },
+    {
+      "nodeName": "LUCKY FORTUNES 3x3",
+      "gameName": "LUCKY FORTUNES 3x3",
+      "defaultLanguage": "LUCKY FORTUNES 3x3",
+      "gameCode": "FCG00023",
+      "showIcon": "/dataImages/slots/FC0039.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0039.png"
+    },
+    {
+      "nodeName": "FORTUNE MONEY BOOM",
+      "gameName": "FORTUNE MONEY BOOM",
+      "defaultLanguage": "FORTUNE MONEY BOOM",
+      "gameCode": "FCG00013",
+      "showIcon": "/dataImages/slots/FC0040.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0040.png"
+    },
+    {
+      "nodeName": "FORTUNE GODDESS",
+      "gameName": "FORTUNE GODDESS",
+      "defaultLanguage": "FORTUNE GODDESS",
+      "gameCode": "FCG00010",
+      "showIcon": "/dataImages/slots/FC0042.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0042.png"
+    },
+    {
+      "nodeName": "ROMA GLADIATRIX",
+      "gameName": "ROMA GLADIATRIX",
+      "defaultLanguage": "ROMA GLADIATRIX",
+      "gameCode": "FCG00035",
+      "showIcon": "/dataImages/slots/FC0043.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0043.png"
+    },
+    {
+      "nodeName": "CHINESE NEW YEAR MOREWAYS",
+      "gameName": "CHINESE NEW YEAR MOREWAYS",
+      "defaultLanguage": "CHINESE NEW YEAR MOREWAYS",
+      "gameCode": "FCG00007",
+      "showIcon": "/dataImages/slots/FC0044.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0044.png"
+    },
+    {
+      "nodeName": "POKER WIN",
+      "gameName": "POKER WIN",
+      "defaultLanguage": "POKER WIN",
+      "gameCode": "FCG00030",
+      "showIcon": "/dataImages/slots/FC0045.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0045.png"
+    },
+    {
+      "nodeName": "BOXING RICHES",
+      "gameName": "BOXING RICHES",
+      "defaultLanguage": "BOXING RICHES",
+      "gameCode": "FCG00002",
+      "showIcon": "/dataImages/slots/FC0046.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0046.png"
+    },
+    {
+      "nodeName": "SUGAR BANG BANG 2",
+      "gameName": "SUGAR BANG BANG 2",
+      "defaultLanguage": "SUGAR BANG BANG 2",
+      "gameCode": "FCG00037",
+      "showIcon": "/dataImages/slots/FC0049.png",
+      "defaultIcon": "https://images.b728484.com:42666/TCG_GAME_ICONS/FC/EN/FC0049.png"
+    }
+    
+   
+  ],
+  [
+    
+    
+  ]
+]

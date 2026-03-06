@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>leftmenu/history/icon-turnover</title>
+    <defs>
+        <linearGradient x1="50%" y1="1.33055874e-13%" x2="50%" y2="104.53891%" id="linearGradient-1">
+            <stop stop-color="#ffb80c" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#ffb80c" stop-opacity="0.995478029" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+            <stop stop-color="#ffb80c" stop-opacity="0.995478029" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.5,3 C22.405,3 28,8.595 28,15.5 C28,22.405 22.405,28 15.5,28 C8.595,28 3,22.405 3,15.5 C3,8.595 8.595,3 15.5,3 Z M15.625,9 L15.375,9 C14.755,9 14.25,9.505 14.25,10.125 L14.25,20.375 C14.25,20.995 14.755,21.5 15.375,21.5 L15.625,21.5 C16.245,21.5 16.75,20.995 16.75,20.375 L16.75,10.125 C16.75,9.505 16.25,9 15.625,9 Z M20.625,12 L20.375,12 C19.755,12 19.25,12.505 19.25,13.125 L19.25,20.375 C19.25,20.995 19.755,21.5 20.375,21.5 L20.625,21.5 C21.245,21.5 21.75,20.995 21.75,20.375 L21.75,13.125 C21.75,12.505 21.25,12 20.625,12 Z M10.625,14 L10.375,14 C9.755,14 9.25,14.505 9.25,15.125 L9.25,20.375 C9.25,20.995 9.755,21.5 10.375,21.5 L10.625,21.5 C11.245,21.5 11.75,20.995 11.75,20.375 L11.75,15.125 C11.75,14.505 11.25,14 10.625,14 Z" id="path-2"></path>
+        <filter x="-16.0%" y="-8.0%" width="132.0%" height="132.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="leftmenu/history/icon-turnover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Combined-Shape">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
